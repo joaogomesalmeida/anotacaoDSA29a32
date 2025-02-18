@@ -1,0 +1,58 @@
+#+title: Anotação artigos 29.º a 32.º do Regulamento dos Serviços Digitais
+#+author: João Gomes de Almeida
+#+LANGUAGE: pt
+#+OPTIONS: toc:nil num:nil
+
+#+LATEX_CLASS: koma-article
+#+LATEX_COMPILER: xelatex
+#+LATEX_HEADER: \KOMAoptions{headings=small}
+
+#+bibliography: ~/Dropbox/Bibliografia/BetterBibLatex/bib.bib
+#+cite_export: csl chicago-fullnote-bibliography.csl
+
+* Anotação artigo 29.º
+** Transcrição do artigo
+
+#+BEGIN_CENTER
+Artigo 29.º \\
+*Exclusão das micro e pequenas empresas*
+#+END_CENTER
+
+1. A presente secção não se aplica aos fornecedores de plataformas em linha que permitem aos consumidores celebrar contratos à distância com comerciantes que sejam consideradas micro ou pequenas empresas tal como definidas na Recomendação 2003/361/CE.
+
+   A presente secção não se aplica aos fornecedores de plataformas em linha que permitem aos consumidores celebrar contratos à distância com comerciantes anteriormente qualificadas para o estatuto de pequena ou microempresa tal como definidas na Recomendação 2003/361/CE durante os 12 meses seguintes à perda desse estatuto nos termos do artigo 4.º, n.º 2, exceto quando se trate de plataformas em linha de muito grande dimensão, nos termos do artigo 33.º.
+
+2. Em derrogação do n.º 1 do presente artigo, a presente secção aplica-se aos fornecedores de plataformas em linha que permitem aos consumidores celebrar contratos à distância com comerciantes que tenham sido designados como plataformas em linha de muito grande dimensão nos termos do artigo 33.º, independentemente de serem ou não consideradas micro ou pequenas empresas.
+
+** Bibliografia
+
+[cite/nocite:@hofmann2023;@muller-terpitz2023]
+
+*Bibliografia:*
+#+print_bibliography:
+
+
+** Comentário
+#+TOC: headlines 2 local
+
+*** I - Antecedentes legislativos
+
+*1.* O artigo 29.º do RSD tem origem no artigo 16.º da Proposta, que estabelecia que as disposições adicionais aplicáveis aos fornecedores de plataformas em linha não seriam aplicáveis aos fornecedores que fossem considerados micro ou pequenas empresas na aceção do anexo da Recomendação 2003/361/CE.
+
+*2.* Comparando o artigo 16.º da Proposta e o artigo 29.º do RSD, este último introduz /(i)/ um período de transição de 12 meses nos casos em que o fornecedor de plataforma em linha perca o estatuto de micro ou pequena empresa e /(ii)/ um recorte da exclusão subjetiva esclarecendo que as disposições adicionais aplicáveis aos fornecedores de plataformas em linha que permitem aos consumidores celebrar contratos à distância com comerciantes são sempre aplicáveis quando se trate de plataformas em linha de muito grande dimensão.
+*** II - Objetivo da norma
+*** III - Relação com outras normas do Regulamento dos Serviços Digitais
+*** IV - Interpretação da norma
+*** V - Apreciação global
+* Anotação artigo 30.º
+** Transcrição do artigo
+** Bibliografia
+** Comentário
+* Anotação artigo 31.º
+** Trascrição do artigo
+** Bibliografia
+** Comentário
+* Anotação artigo 32.º
+** Transcrição do artigo
+** Bibliografia
+** Comentário
