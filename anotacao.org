@@ -37,10 +37,17 @@ Artigo 29.º \\
 
 *** I - Antecedentes legislativos
 
-*1.* O artigo 29.º do RSD tem origem no artigo 16.º da Proposta, que estabelecia que as disposições adicionais aplicáveis aos fornecedores de plataformas em linha não seriam aplicáveis aos fornecedores que fossem considerados micro ou pequenas empresas na aceção do anexo da Recomendação 2003/361/CE.
+*1.* O artigo 16.º da Proposta estabelecia que as disposições adicionais aplicáveis aos fornecedores de plataformas em linha não seriam aplicáveis aos fornecedores que fossem considerados micro ou pequenas empresas na aceção do anexo da Recomendação 2003/361/CE, excecção semelhante à que veio a ser consagrada neste preceito.
 
 *2.* Comparando o artigo 16.º da Proposta e o artigo 29.º do RSD, este último introduz /(i)/ um período de transição de 12 meses nos casos em que o fornecedor de plataforma em linha perca o estatuto de micro ou pequena empresa e /(ii)/ um recorte da exclusão subjetiva esclarecendo que as disposições adicionais aplicáveis aos fornecedores de plataformas em linha que permitem aos consumidores celebrar contratos à distância com comerciantes são sempre aplicáveis quando se trate de plataformas em linha de muito grande dimensão.
-*** II - Objetivo da norma
+
+*3.* O recorte da exclusão subjetiva foi introduzido pelo Parlamento Europeu e pelo Conselho[fn:1]. O período de transição surge mais tarde no processo legislativo, na sequência de negociações interinstitucionais entre o Parlamento Europeu, o Conselho e a Comissão Europeia[fn:2]. No final do processo legislativo, dividiu-se a secção 3 da Proposta (que inicia no artigo 16.º) nas atuais secção 3, relativa às disposições adicionais aplicáveis aos fornecedores de plataformas em linha (arts. 19.º a 28.º do RSD) e secção 4, relativa às disposições adicionais aplicáveis aos fornecedores de plataformas em linha que permitem aos consumidores celebrar
+contratos à distância com comerciantes (arts. 29.º a 32.º do RSD). Tal motivou uma retificação da posição adotada em primeira leitura pelo Parlamento Europeu em 5 de julho de 2022, na qual se inseriu o atual artigo 29.º do RSD[fn:3].
+
+*** II - Ponderação de interesses
+
+*4.* O artigo 29.º é o resultado da procura de um equilíbrio entre dois interesses: a proteção dos consumidores e o apoio e desenvolvimento das micro, pequenas e médias empresas da União Europeia. Ambos se encontram consagrados no TFUE: a proteção dos consumidores nos artigos 12.º e 169.º e o apoio e desenvolvimentos das pequanas e médias empresas nos artigos 153.º, n.º 2, al. /b)/, e 173.º, n.º 1, 2.º travessão.
+
 *** III - Relação com outras normas do Regulamento dos Serviços Digitais
 *** IV - Interpretação da norma
 *** V - Apreciação global
@@ -56,3 +63,11 @@ Artigo 29.º \\
 ** Transcrição do artigo
 ** Bibliografia
 ** Comentário
+
+* Footnotes
+
+[fn:3] cf. RETIFICAÇÃO da posição do Parlamento Europeu aprovada em primeira leitura, em 5 de julho de 2022, tendo em vista a adoção do Regulamento (UE) 2022/... do Parlamento Europeu e do Conselho relativo a um mercado único de serviços digitais (Regulamento Serviços Digitais) e que altera a Diretiva 2000/31/CE, doc. P9_TA(2022)0269 de 8 de setembro de 2022 (COM(2020)0825 – C9-0418/2020 – 2020/0361(COD)), disponível em https://www.europarl.europa.eu/doceo/document/TA-9-2022-0269_PT.html e consultada pela última vez em 20 de fevereiro de 2025.
+
+[fn:2] Cf. o /Provisional Agreement resulting from Interinstitutional Negotiations/, de 15 de junho de 2022, doc. PE734.11, disponível em https://oeil.secure.europarl.europa.eu/oeil/en/procedure-file?reference=2020/0361(COD) e consultado pela última vez em 20 de fevereiro de 2025.
+
+[fn:1] Cf., respetivamente, o Projeto de Relatório sobre a proposta de Regulamento do Parlamento Europeu e do Conselho relativo a um mercado único de serviços digitais (Regulamento Serviços Digitais) e que altera a Diretiva 2000/31/CE (COM(2020)0825 – C9-0418/2020 – 2020/0361(COD)) - relatora: Christel Schaldemose, as alterações aprovadas, em primeira leitura, pelo Parlamento Europeu, em 20 de janeiro de 2022, sobre a proposta de regulamento do Parlamento Europeu e do Conselho relativo a um mercado único de serviços digitais (Regulamento Serviços Digitais) e que altera a Diretiva 2000/31/CE (COM(2020)0825 – C9-0418/2020 – 2020/0361(COD)), disponíveis em https://oeil.secure.europarl.europa.eu/oeil/en/procedure-file?reference=2020/0361(COD) e consultados pela última vez em 20 de fevereiro de 2025, e a Proposta de REGULAMENTO DO PARLAMENTO EUROPEU E DO CONSELHO relativo a um mercado único de serviços digitais (Regulamento Serviços Digitais) e que altera a Diretiva 2000/31/CE - Orientação geral, de 18 de novembro de 2021, doc. 13203/21, disponível em https://eur-lex.europa.eu/legal-content/PT/HIS/?uri=CELEX:32022R2065&qid=1739909682588 e consultado pela última vez em 20 de fevereiro de 2025.
