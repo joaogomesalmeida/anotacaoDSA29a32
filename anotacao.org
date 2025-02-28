@@ -5,13 +5,14 @@
 
 #+LATEX_CLASS: koma-article
 #+LATEX_COMPILER: xelatex
+#+LATEX_HEADER: \usepackage{titletoc}
 #+LATEX_HEADER: \KOMAoptions{headings=small}
 
 #+bibliography: ~/Dropbox/Bibliografia/BetterBibLatex/bib.bib
 #+cite_export: csl chicago-fullnote-bibliography.csl
 
-* Anotação artigo 29.º
-** Transcrição do artigo
+* Anotação artigo 29.º :ignore:
+** Transcrição do artigo :ignore:
 
 #+BEGIN_CENTER
 Artigo 29.º \\
@@ -24,7 +25,7 @@ Artigo 29.º \\
 
 2. Em derrogação do n.º 1 do presente artigo, a presente secção aplica-se aos fornecedores de plataformas em linha que permitem aos consumidores celebrar contratos à distância com comerciantes que tenham sido designados como plataformas em linha de muito grande dimensão nos termos do artigo 33.º, independentemente de serem ou não consideradas micro ou pequenas empresas.
 
-** Bibliografia
+** Bibliografia :ignore:
 
 [cite/nocite:@hofmann2023;@muller-terpitz2023]
 
@@ -33,6 +34,7 @@ Artigo 29.º \\
 
 
 ** Comentário
+
 #+TOC: headlines 2 local
 
 *** I - Antecedentes legislativos
@@ -48,9 +50,10 @@ contratos à distância com comerciantes (arts. 29.º a 32.º do RSD). Tal motiv
 
 *4.* O artigo 29.º é o resultado da procura de um equilíbrio entre dois interesses: a proteção dos consumidores e o apoio e desenvolvimento das micro, pequenas e médias empresas da União Europeia. Ambos se encontram consagrados no TFUE: a proteção dos consumidores nos artigos 12.º e 169.º e o apoio e desenvolvimentos das pequanas e médias empresas nos artigos 153.º, n.º 2, al. /b)/, e 173.º, n.º 1, 2.º travessão.
 
-*** III - Relação com outras normas do Regulamento dos Serviços Digitais
-*** IV - Interpretação da norma
-*** V - Apreciação global
+*5.* A isenção subjetiva a favor das micro e pequenas empresas visa evitar encargos desproporcionados[fn:4], pois as empresas de menor dimensão poderão não conseguir suportar os custos de /compliance/ com todas as obrigações definidas no RSD e acabariam prejudicadas por um instrumento que visa também proporcionar-lhes condições de concorrência equitativas[fn:5]. As micro e pequenas empresas beneficiam de outras isenções subjetivas nos artigos 15.º, n.º 2, e 19.º do RSD, prevendo-se no artigo 91.º, n.º 2, al. /d)/, do RSD a revisão destas isenções até 17 de novembro de 2027 e a partir daí quinquenalmente. Salienta-se que o legislador europeu entendeu que as obrigações estabelecidas pelo RSD não constituem encargos desproporcionados para as médias empresas.
+
+*** III - Interpretação da norma
+*** IV - Apreciação global
 * Anotação artigo 30.º
 ** Transcrição do artigo
 ** Bibliografia
@@ -65,6 +68,9 @@ contratos à distância com comerciantes (arts. 29.º a 32.º do RSD). Tal motiv
 ** Comentário
 
 * Footnotes
+
+[fn:5] Cf., neste sentido, Parecer do Comité Económico e Social Europeu sobre a «Proposta de regulamento do Parlamento Europeu e do Conselho relativo a um mercado único de serviços digitais (Regulamento Serviços Digitais) e que altera a Diretiva 2000/31/CE», publicado no JOUE C 286, de 16 de julho de 2021, ponto 3.7.
+[fn:4] Cf. considerando n.º 57.
 
 [fn:3] cf. RETIFICAÇÃO da posição do Parlamento Europeu aprovada em primeira leitura, em 5 de julho de 2022, tendo em vista a adoção do Regulamento (UE) 2022/... do Parlamento Europeu e do Conselho relativo a um mercado único de serviços digitais (Regulamento Serviços Digitais) e que altera a Diretiva 2000/31/CE, doc. P9_TA(2022)0269 de 8 de setembro de 2022 (COM(2020)0825 – C9-0418/2020 – 2020/0361(COD)), disponível em https://www.europarl.europa.eu/doceo/document/TA-9-2022-0269_PT.html e consultada pela última vez em 20 de fevereiro de 2025.
 
