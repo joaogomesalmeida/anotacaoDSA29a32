@@ -34,7 +34,6 @@ Artigo 29.º \\
 
 
 ** Comentário
-
 #+TOC: headlines 2 local
 
 *** I - Antecedentes legislativos
