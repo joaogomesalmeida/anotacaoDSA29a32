@@ -49,9 +49,14 @@ contratos à distância com comerciantes (arts. 29.º a 32.º do RSD). Tal motiv
 
 *4.* O artigo 29.º é o resultado da procura de um equilíbrio entre dois interesses: a proteção dos consumidores e o apoio e desenvolvimento das micro, pequenas e médias empresas da União Europeia. Ambos se encontram consagrados no TFUE: a proteção dos consumidores nos artigos 12.º e 169.º e o apoio e desenvolvimentos das pequanas e médias empresas nos artigos 153.º, n.º 2, al. /b)/, e 173.º, n.º 1, 2.º travessão.
 
-*5.* A isenção subjetiva a favor das micro e pequenas empresas visa evitar encargos desproporcionados[fn:4], pois as empresas de menor dimensão poderão não conseguir suportar os custos de /compliance/ com todas as obrigações definidas no RSD e acabariam prejudicadas por um instrumento que visa também proporcionar-lhes condições de concorrência equitativas[fn:5]. As micro e pequenas empresas beneficiam de outras isenções subjetivas nos artigos 15.º, n.º 2, e 19.º do RSD, prevendo-se no artigo 91.º, n.º 2, al. /d)/, do RSD a revisão destas isenções até 17 de novembro de 2027 e a partir daí quinquenalmente. Salienta-se que o legislador europeu entendeu que as obrigações estabelecidas pelo RSD não constituem encargos desproporcionados para as médias empresas.
+*5.* A isenção subjetiva a favor das micro e pequenas empresas visa evitar encargos desproporcionados[fn:4], pois as empresas de menor dimensão poderão não conseguir suportar os custos de /compliance/ com todas as obrigações definidas no RSD e acabariam prejudicadas por um instrumento que visa também proporcionar-lhes condições de concorrência equitativas[fn:5]. As micro e pequenas empresas beneficiam de outras isenções subjetivas nos artigos 15.º, n.º 2, e 19.º do RSD, prevendo-se no artigo 91.º, n.º 2, al. /d)/, do RSD a revisão destas isenções até 17 de novembro de 2027 e a partir daí quinquenalmente. Salienta-se que o legislador europeu entendeu que as obrigações estabelecidas pelo RSD não constituem encargos desproporcionados para as médias empresas e, em contraponto, estabeleceu obrigações específicas dos prestadores de mercados em linha relacionadas com a segurança dos produtos, sem consagrar qualquer exceção para as micro e pequenas empresas no Regulamento (UE) 2023/988 relativo à segurança geral dos produtos[fn:6].
 
 *** III - Interpretação da norma
+*6. Conceitos.* Os conceitos mais relevantes do artigo 29.º são, por um lado, os conceitos de "consumidor", "comerciante", "plataforma em linha", "contrato à distância" e "plataforma em linha de muito grande dimensão" definidos, respetivamente, nos artigos 3.º, e 33.º, n.ºs 1 e 4, para os quais se remete e, por outro, os conceitos de micro e pequena empresa, definidos na Recomendação 2003/361/CE[fn:7].
+
+*7.* Estes conceitos efetuam o recorte subjetivo de quem está sujeito às disposições adicionais consagradas na secção IV do capítulo III e de quem beneficia da exclusão prevista no artigo 29.º. Assim, e por exemplo, o fornecedor de plataforma em linha que /ou/ não permita a celebração de contratos à distância /ou/ só permita a celebração de contratos à distância entre comerciantes não está obrigado a cumprir as disposições adicionais consagradas na secção IV do capítulo III. Por outro lado, o fornecedor de plataforma em linha que permita a celebração de contratos à distância com consumidores que seja considerado uma micro ou pequena empresa na aceção da Recomendaçã 2003/361/CE beneficia da exclusão consagrada no artigo 29.º, n.º 1, exceto se a sua plataforma em linha for designada como uma plataforma de muito grande dimensão (artigo 29.º, n.º 2).
+
+*8. Conceitos de micro e pequena empresa.*
 *** IV - Apreciação global
 * Anotação artigo 30.º
 ** Transcrição do artigo
@@ -68,7 +73,11 @@ contratos à distância com comerciantes (arts. 29.º a 32.º do RSD). Tal motiv
 
 * Footnotes
 
-[fn:5] Cf., neste sentido, Parecer do Comité Económico e Social Europeu sobre a «Proposta de regulamento do Parlamento Europeu e do Conselho relativo a um mercado único de serviços digitais (Regulamento Serviços Digitais) e que altera a Diretiva 2000/31/CE», publicado no JOUE C 286, de 16 de julho de 2021, ponto 3.7.
+[fn:7] Recomendação da Comissão, de 6 de Maio de 2003, relativa à definição de micro, pequenas e médias empresas, notificada com o número C(2003) 1422, publicada no JO L 124, de 20 de maio de 2003.
+
+[fn:6] Cf. artigo 22.º do Regulamento (UE) 2023/988 do Parlamento Europeu e do Conselho de 10 de maio de 2023 relativo à segurança geral dos produtos, que altera o Regulamento (UE) n.o 1025/2012 do Parlamento Europeu e do Conselho e a Diretiva (UE) 2020/1828 do Parlamento Europeu e do Conselho e que revoga a Diretiva 2001/95/CE do Parlamento Europeu e do Conselho e a Diretiva 87/357/CEE do Conselho, publicado no JO L 135, de 23 de maio de 2023.
+
+[fn:5] Cf., neste sentido, Parecer do Comité Económico e Social Europeu sobre a «Proposta de regulamento do Parlamento Europeu e do Conselho relativo a um mercado único de serviços digitais (Regulamento Serviços Digitais) e que altera a Diretiva 2000/31/CE», publicado no JO C 286, de 16 de julho de 2021, ponto 3.7.
 [fn:4] Cf. considerando n.º 57.
 
 [fn:3] cf. RETIFICAÇÃO da posição do Parlamento Europeu aprovada em primeira leitura, em 5 de julho de 2022, tendo em vista a adoção do Regulamento (UE) 2022/... do Parlamento Europeu e do Conselho relativo a um mercado único de serviços digitais (Regulamento Serviços Digitais) e que altera a Diretiva 2000/31/CE, doc. P9_TA(2022)0269 de 8 de setembro de 2022 (COM(2020)0825 – C9-0418/2020 – 2020/0361(COD)), disponível em https://www.europarl.europa.eu/doceo/document/TA-9-2022-0269_PT.html e consultada pela última vez em 20 de fevereiro de 2025.
