@@ -54,9 +54,21 @@ contratos à distância com comerciantes (arts. 29.º a 32.º do RSD). Tal motiv
 *** III - Interpretação da norma
 *6. Conceitos.* Os conceitos mais relevantes do artigo 29.º são, por um lado, os conceitos de "consumidor", "comerciante", "plataforma em linha", "contrato à distância" e "plataforma em linha de muito grande dimensão" definidos, respetivamente, nos artigos 3.º, e 33.º, n.ºs 1 e 4, para os quais se remete e, por outro, os conceitos de micro e pequena empresa, definidos na Recomendação 2003/361/CE[fn:7].
 
-*7.* Estes conceitos efetuam o recorte subjetivo de quem está sujeito às disposições adicionais consagradas na secção IV do capítulo III e de quem beneficia da exclusão prevista no artigo 29.º. Assim, e por exemplo, o fornecedor de plataforma em linha que /ou/ não permita a celebração de contratos à distância /ou/ só permita a celebração de contratos à distância entre comerciantes não está obrigado a cumprir as disposições adicionais consagradas na secção IV do capítulo III. Por outro lado, o fornecedor de plataforma em linha que permita a celebração de contratos à distância com consumidores que seja considerado uma micro ou pequena empresa na aceção da Recomendaçã 2003/361/CE beneficia da exclusão consagrada no artigo 29.º, n.º 1, exceto se a sua plataforma em linha for designada como uma plataforma de muito grande dimensão (artigo 29.º, n.º 2).
+*7.* Estes conceitos efetuam o recorte subjetivo de quem está sujeito às disposições adicionais consagradas na secção IV do capítulo III e de quem beneficia da exclusão prevista no artigo 29.º. Assim, e por exemplo, o fornecedor de plataforma em linha que /ou/ não permita a celebração de contratos à distância /ou/ só permita a celebração de contratos à distância entre comerciantes não está obrigado a cumprir as disposições adicionais consagradas na secção IV do capítulo III. Por outro lado, o fornecedor de plataforma em linha que permita a celebração de contratos à distância com consumidores /e/ que seja considerado uma micro ou pequena empresa na aceção da Recomendaçã 2003/361/CE beneficia da exclusão consagrada no artigo 29.º, n.º 1, /exceto se/ a sua plataforma em linha for designada como uma plataforma de muito grande dimensão (artigo 29.º, n.º 2).
 
-*8. Conceitos de micro e pequena empresa.*
+*8. Conceitos de micro e pequena empresa.* O conceito de empresa abrange "qualquer entidade que, independentemente da sua forma jurídica, exerce uma actividade econó-
+mica."[fn:10] Uma micro empresa "é definida como uma empresa que emprega menos de 10 pessoas e cujo volume de negócios anual ou balanço total anual não excede 2 milhões de euros."[fn:8] Uma pequena empresa "é definida como uma empresa que emprega menos de 50 pessoas e cujo volume de negócios anual ou balanço total anual não excede 10 milhões de euros."[fn:9] Atende-se também às relações entre empresas para efeitos de apuramento destes critérios, classificando as empresas como autónomas, parceiras ou associadas[fn:11] e esclarecendo que uma empresa não pode ser considerada uma pequena ou média empresa "se 25% ou mais do seu capital ou dos seus direitos de voto forem controlados, directa ou indirectamente, por uma ou várias colectividades públicas ou organismos públicos, a título individual ou conjuntamente."[fn:12] A Recomendação estabelece ainda os dados a considerar para cálculo dos efetivos e dos montantes financeiros[fn:13].
+
+De acordo com o TJUE, o conceito de micro, pequenas e médias empresas (PME) da Recomendação 2003/361/CE deve ser objeto de interpretação estrita, pois as vantagens concedidas às PME constituem, muitas vezes, exceções às regras gerais[fn:14][cite:@hofmann2023;art. 29.º, n.º 7, defendem que a interpretação não deve ser estrita, mas sim tendo em conta a sua função específica].
+
+*10. Não aplicabilidade das disposições da presente secção*. Beneficiam da não aplicabilidade desta secção todos os fornecedores de plataformas em linha que permitam a celebração de contratos à distância com consumidores que sejam, na aceção da Recomendação 2003/361/CE, uma micro ou uma pequena empresa (art. 29.º, n.º 1, 1.º parágrafo do RSD). Como a exclusão abrange as micro e as pequenas empresas, bastará cumprir os critérios definidos na recomendação para estas últimas para beneficiar da exclusão.[cite:Cf., no mesmo sentido, @hofmann2023;art. 29.º, n.º 10]
+
+Sendo a exclusão um benefício concedido aos os fornecedores de plataformas em linha que permitam a celebração de contratos à distância com consumidores que sejam, na aceção da Recomendação 2003/361/CE, uma micro ou uma pequena empresa, nada impede que estes voluntariamente cumpram o disposto nesta secção[cite:Cf., no mesmo sentido, @muller-terpitz2023;art. 29.º, n.º 6].
+
+*11. Perda de estatuto de micro ou pequena empresa*. Caso o fornecedor deixe de preencher os critérios para ser considerado, pelo menos, uma pequena empresa na aceção da Recomendação 2003/361/CE, ele beneficia de um período de 12 meses contados a partir da data em que perdeu o estatuto de micro ou pequena empresa (art. 29.º, n.º 1, 2.º parágrafo). Uma empresa perde o estatuto de micro ou pequena empresa se, numa base anual, superar o limiar de efetivos e ou os limiares financeiros /e/ se tal se repetir durante dois exercícios consecutivos[fn:15]. Perdido o estatuto de micro ou pequena empresa, o fornecedor só terá a obrigação de cumprir com as normas da presente secção passados 12 meses. Este período de transição compreende-se como força de mitigar os encargos inerentes ao cumprimento das obrigações desta secção.
+
+*12. Fornecedores de plataformas em linha de muito grande dimensão*. Os fornecedores de plataformas em linha que permitam a celebração de contratos à distância que tenham sido designadas como plataformas em linha de muito grande dimensão (cf. artigo 33.º e ss.) não beneficiam da exclusão (art. 29.º, n.º 2, do RSD) nem do período de transição em caso de perda do estatuto de micro ou pequena empresa (art. 29.º, n.º 1, 2.º parágrafo, /in fine/, do RSD).
+
 *** IV - Apreciação global
 * Anotação artigo 30.º
 ** Transcrição do artigo
@@ -72,6 +84,22 @@ contratos à distância com comerciantes (arts. 29.º a 32.º do RSD). Tal motiv
 ** Comentário
 
 * Footnotes
+
+[fn:15] Cf. artigo 4.º, n.º 2, do Anexo da Recomendação 2003/361/CE.
+
+[fn:14] Cf. Acórdãos de 27 de fevereiro de 2014, /HaTeFo/, C-110/13, EU:C:2014:114, considerando n. 32, de 24 de setembro de 2020, /NMI Technologietransfer/, C-516/19, EU:C:2020:754, considerando n.º 65, e de 10 de março de 2021, /Ertico - ITS Europe contra Comissão Europeia/, C-572/19 P, EU:C:2021:188, considerando n.º 89.
+
+[fn:13] Cf. artigos 4.º, 5.º e 6.º do Anexo da Recomendação 2003/361/CE.
+
+[fn:12] Cf. artigo 3.º, n.º 4, do Anexo da Recomendação 2003/261/CE.
+
+[fn:11] Cf. artigo 3.º do Anexo da Recomendação 2003/261/CE.
+
+[fn:10] Cf. artigo 1.º do Anexo da Recomendação 2003/261/CE.
+
+[fn:9] Cf. artigo 2.º, n.º 2, do Anexo da Recomendação 2003/361/CE.
+
+[fn:8] Cf. artigo 2.º, n.º 3, do Anexo da Recomendação 2003/361/CE.
 
 [fn:7] Recomendação da Comissão, de 6 de Maio de 2003, relativa à definição de micro, pequenas e médias empresas, notificada com o número C(2003) 1422, publicada no JO L 124, de 20 de maio de 2003.
 
