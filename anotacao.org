@@ -71,17 +71,66 @@ Sendo a exclusão um benefício concedido aos os fornecedores de plataformas em 
 
 Caso o fornecedor seja uma micro ou pequena empresa, na aceção da Recomendação 2003/361/CE, e a sua plataforma em linha que permite a celebração de contratos à distância seja designada pela Comissão Europeia como uma plataforma em linha de muito grande dimensão pode questionar-se a partir de que data devem ser cumpridas as disposições previstas nos artigos 30.º a 32.º do RSD. Resulta do artigo 33.º, n.º 6, 2.º parágrafo, do RSD que as obrigações adicionais dos fornecedores de plataformas em linha de muito grande dimensão e de motores de pesquisa em linha de muito grande dimensão no que se refere à gestão de riscos sistémicos (secção 5 do capítulo III) são aplicáveis no prazo de quatro meses após a notificação da designação ao fornecedor. Nada se prevê, porém, quanto à data em que são aplicáveis as disposições adicionais aplicáveis aos fornecedores de plataformas em linha que permitem aos consumidores celebrar contratos à distância com comerciantes (secção 4 do capítulo III). Parecem possíveis duas interpretações: a primeira, mais literal, é a de que as disposições da presente secção são aplicáveis a partir da data da notificação ao fornecedor da designação da sua plataforma como uma plataforma em linha de muito grande dimensão; a segunda é a de que as disposições da presente secção são aplicáveis 4 meses após a notificação ao fornecedor da designação da plataforma como plataforma em linha de muito grande dimensão, aplicando analogicamente o prazo previsto no artigo 33.º, n.º 6, 2.º parágrafo do RSD. Parece-nos que esta segunda opção é mais consentânea com a ponderação de interesses subjacente a esta secção. Considerando o teor das obrigações previstas nos artigos 30.º a 32.º do RSD, a caracterização do fornecedor como micro ou pequena empresa na aceção da Recomendação 2003/361/CE e a classificação como plataforma em linha de muito grande dimensão depender de uma decisão da Comissão Europeia, parece adequado o prazo de quatro meses para o fornecedor assegurar o cumprimento das obrigações previstas na presente secção.
 
-* Anotação artigo 30.º
-** Transcrição do artigo
-** Bibliografia
+* Anotação artigo 30.º :ignore:
+** Transcrição do artigo :ignore:
+#+BEGIN_CENTER
+Artigo 30.º \\
+*Rastreabilidade dos comerciantes*
+#+END_CENTER
+
+1.   Os fornecedores de plataformas em linha que permitem aos consumidores celebrar contratos à distância com comerciantes asseguram que os comerciantes só possam utilizar essas plataformas em linha para promover mensagens ou oferecer produtos ou serviços aos consumidores localizados na União se, antes da utilização dos seus serviços para estes fins, tiverem obtido as seguintes informações, sempre que forem aplicáveis ao comerciante:
+   a) O nome, endereço postal, número de telefone e endereço de correio eletrónico do comerciante;
+   b) Uma cópia do documento de identificação do comerciante ou qualquer outra identificação eletrónica, tal como definida no artigo 3.º do Regulamento (UE) n.º 910/2014 do Parlamento Europeu e do Conselho (40);
+   c) Os dados da conta de pagamento do comerciante;
+   d) Se o comerciante estiver inscrito num registo comercial ou noutro registo público equivalente, o registo comercial em que se encontra inscrito e o respetivo número de registo, ou forma de identificação equivalente nesse registo;
+   e) Uma autocertificação do comerciante, em que se compromete a oferecer apenas produtos ou serviços que respeitem as regras aplicáveis do direito da União.
+2.   Ao receber as informações a que se refere o n.º 1, e antes de permitir que o comerciante em causa utilize os seus serviços, o fornecedor da plataforma em linha que permite aos consumidores celebrar contratos à distância com comerciantes deve, seja através da utilização de uma base de dados oficial em linha ou interface em linha de acesso livre, disponibilizada por um Estado-Membro ou pela União, seja através da apresentação de pedidos ao comerciante para fornecer documentos comprovativos provenientes de fontes fiáveis, envidar todos os esforços para avaliar se as informações referidas no n.º 1, alíneas a) a e), são fiáveis e completas. Para efeitos do presente regulamento, os comerciantes são responsáveis pela exatidão das informações prestadas.
+
+   No que diz respeito aos comerciantes que já utilizam os serviços de fornecedores de plataformas em linha que permitem aos consumidores celebrar contratos à distância com comerciantes para os fins referidos no n.º 1 em 17 de fevereiro de 2024, os fornecedores envidam todos os esforços para obter dos comerciantes em causa as informações referidas na lista no prazo de 12 meses. Se os comerciantes em causa não fornecerem as informações dentro deste prazo, os fornecedores suspendem o fornecimento dos seus serviços a tais comerciantes até que estes tenham fornecido todas as informações.
+3.   Se o fornecedor da plataforma em linha que permite aos consumidores celebrar contratos à distância com comerciantes obtiver indicações suficientes de que qualquer informação a que se refere o n.o 1 obtida do comerciante em causa é inexata, está incompleta ou não está atualizada, ou se tiver motivos para o supor, esse fornecedor solicita ao comerciante que corrija a situação, sem demora ou no prazo fixado pelo direito da União e nacional.
+
+   Se o comerciante não corrigir ou completar essas informações, o prestador de plataformas em linha que permite aos consumidores celebrar contratos à distância com comerciantes suspende rapidamente a prestação do seu serviço a esse comerciante em relação à oferta de produtos ou de serviços aos consumidores localizados na União até que o pedido tenha sido plenamente satisfeito.
+4.   Sem prejuízo do disposto no artigo 4.º do Regulamento (UE) 2019/1150, caso um fornecedor de uma plataforma em linha que permite aos consumidores celebrar contratos à distância com comerciantes se recuse a autorizar um comerciante a utilizar o seu serviço nos termos do n.º 1 do presente artigo, ou suspenda a sua prestação nos termos do n.º 3 do presente artigo, o comerciante em causa tem o direito de apresentar uma reclamação nos termos dos artigos 20.º e 21.º do presente regulamento.
+5.   Os fornecedores de plataformas em linha que permitem aos consumidores celebrar contratos à distância com comerciantes armazenam as informações obtidas nos termos dos n.ºs 1 e 2 de forma segura durante um período de seis meses após a cessação da relação contratual com o comerciante em causa. Posteriormente, apagam as informações.
+6.   Sem prejuízo do disposto no n.º 2 do presente artigo, o fornecedor da plataforma em linha que permite aos consumidores celebrar contratos à distância com comerciantes só divulga as informações a terceiros quando tal lhe for exigido nos termos do direito aplicável, incluindo as decisões a que se refere o artigo 10.º e quaisquer decisões emitidas pelas autoridades competentes dos Estados-Membros ou pela Comissão para o desempenho das suas funções nos termos do presente regulamento.
+7.   O fornecedor da plataforma em linha que permite aos consumidores celebrar contratos à distância com comerciantes disponibiliza as informações a que se refere o n.º 1, alíneas a), d) e e), na sua plataforma em linha aos destinatários do serviço de forma clara, facilmente acessível e compreensível. Essas informações ficam disponíveis pelo menos na interface em linha da plataforma em linha onde as informações sobre o produto ou sobre o serviço são apresentadas.
+
+** Bibliografia :ignore:
 ** Comentário
-* Anotação artigo 31.º
-** Trascrição do artigo
-** Bibliografia
+* Anotação artigo 31.º :ignore:
+** Trascrição do artigo :ignore:
+#+BEGIN_CENTER
+Artigo 31.º \\
+*Conformidade desde a conceção*
+#+END_CENTER
+
+1.   Os fornecedores de plataformas em linha que permitem aos consumidores celebrar contratos à distância com comerciantes asseguram que a sua interface é concebida e organizada de forma a permitir que os comerciantes cumpram as obrigações que lhes incumbem em matéria de informação pré-contratual, conformidade e informação sobre a segurança dos produtos nos termos do direito da União aplicável.
+
+   Em especial, o fornecedor em causa assegura que a sua interface em linha permite aos comerciantes prestar informações sobre o nome, endereço postal, número de telefone e endereço de correio eletrónico do operador económico, tal como definido no artigo 3.º, ponto 13, do Regulamento (UE) 2019/1020 e no direito da União.
+2.   Os fornecedores de plataformas em linha que permitem aos consumidores celebrar contratos à distância com comerciantes asseguram que a sua interface em linha é concebida e organizada de forma a permitir que os comerciantes forneçam, pelo menos, os seguintes elementos:
+   a) As informações necessárias para a identificação clara e inequívoca dos produtos ou serviços promovidos ou oferecidos aos consumidores localizados na União através dos serviços dos fornecedores;
+   b) Qualquer sinal que identifique o comerciante, como a marca comercial, símbolo ou o logótipo; e
+   c) Se for caso disso, as informações relativas à rotulagem e marcação em conformidade com as normas do direito da União aplicável em matéria de segurança dos produtos e conformidade dos produtos.
+3.   Os fornecedores de plataformas em linha que permitem aos consumidores celebrar contratos à distância com comerciantes, envidam todos os esforços para avaliar se tais comerciantes forneceram as informações a que se referem os n.ºs 1 e 2 antes de lhes permitir oferecer os seus produtos ou serviços nessas plataformas. Após permitir ao comerciante oferecer os respetivos produtos ou serviços na sua plataforma em linha que permite aos consumidores celebrar contratos à distância com comerciantes, o fornecedor envida esforços razoáveis para verificar aleatoriamente se os produtos ou serviços oferecidos foram identificados como ilegais em qualquer base de dados em linha ou interface em linha oficial, de acesso livre e legível por máquina.
+
+** Bibliografia :ignore:
 ** Comentário
-* Anotação artigo 32.º
-** Transcrição do artigo
-** Bibliografia
+* Anotação artigo 32.º :ignore:
+** Transcrição do artigo :ignore:
+#+BEGIN_CENTER
+Artigo 32.º \\
+*Direito à informação*
+#+END_CENTER
+
+1.   Caso um fornecedor de uma plataforma em linha que permite aos consumidores celebrar contratos à distância com comerciantes tome conhecimento, independentemente do meio utilizado, de que um produto ou serviço ilegal foi oferecido por um comerciante a consumidores localizados na União através dos seus serviços, esse fornecedor deve, na medida em que disponha dos seus dados de contacto, informar os consumidores que adquiriram o produto ou serviço ilegais através dos seus serviços do seguinte:
+   a) Do facto de o produto ou serviço ser ilegal;
+   b) Da identidade do comerciante; e
+   c) De quaisquer meios de reparação aplicáveis.
+
+   A obrigação estabelecida no primeiro parágrafo está limitada às aquisições de produtos ou serviços ilegais efetuadas durante os seis meses que precedem o momento em que o fornecedor tomou conhecimento da ilegalidade.
+2.   Se, no caso referido no n.º 1, o fornecedor da plataforma em linha que permite aos consumidores celebrar contratos à distância com comerciantes não dispuser dos dados de contacto de todos os consumidores em causa, esse fornecedor disponibiliza ao público e torna facilmente acessível na sua interface em linha as informações sobre o produto ou serviço ilegal, a identidade do comerciante e quaisquer meios de reparação aplicáveis.
+
+** Bibliografia :ignore:
 ** Comentário
 
 * Footnotes
