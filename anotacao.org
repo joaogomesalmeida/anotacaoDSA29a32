@@ -132,6 +132,17 @@ A recolha de informação prevista no n.º 1 deste artigo parte do pressuposto d
 *** VI - Obrigação de avaliação prévia da informação obtida (n.º 2, 1.º parágrafo)
 *5. Regime*. Recebidas as informações elencadas no n.º 1, o fornecedor deve envidar todos os esforços para avaliar se as informações recebidas são fiáveis e completas antes de permitir a utilização da sua plataforma pelo comerciante para propor mensagens e oferecer produtos ou serviços aos consumidores localizados na União Europeia. Esta obrigação de avaliação prévia da informação obtida é uma novidade.
 
+*6. Objeto da avaliação*. O fornecedor deve avaliar se as informações são fiáveis e completas. Verificar se as informações estão ou não completas não parece suscitar dificuldades de maior[cite:@wilman2024; art. 30.º, n.º 15]. Para avaliar a fiabilidade das informações sugere-se a utilização de "bases de dados oficiais em linha e interfaces em linha de livre acesso, como registos comerciais nacionais e o Sistema de Intercâmbio de Informações sobre o IVA, ou solicitar aos comerciantes em causa que forneçam documentos comprovativos fiáveis, como cópias de documentos de identidade, extratos certificados de contas de pagamento, certificados de empresa e certidões de registo comercial", admitindo-se ainda o recurso "a outras fontes, disponíveis para utilização à distância, que proporcionem um grau de
+fiabilidade semelhante para efeitos de cumprimento desta obrigação"[fn:28]. A verificação da fiabilidade da autocertificação parece problemática, uma vez que incide sobre comportamentos futuros[cite:@wilman2024; art. 30.º, n.º 16].
+
+O fornecedor não é obrigado a verificar a exatidão das informações recebidas. O responsável pela exatidão das informações é o comerciante (art. 30.º, n.º 2, 1.º parágrafo, /in fine/ do RSD). Se, no entanto, o fornecedor tiver conhecimento de que as informações são inexatas, não deve autorizar a utilização da plataforma antes da correção das mesmas pelo comerciante[cite:Cf., neste sentido, @hofmann2023;art. 30.º, n.º 29].
+
+*7. Critério de diligência*. Estabelece-se que o fornecedor deve "envidar todos os esforços" para avaliar se as informações são fiáveis e completas. Esta expressão deve ser interpretada com cautela e compaginada com o esclarecimento no considerando n.º 73 de que "os fornecedores de plataformas em linha em causa não deverão ser obrigados a realizar exercícios de apuramento de factos em linha excessivos ou dispendiosos, nem a efetuar verificações desproporcionadas no local". Considera-se que o critério de diligência a adotar é o de "melhores esforços"[cite:@wilman2024 art. 30.º, n.º 13;@hofmann2023 art. 30.º, n.º 25;@muller-terpitz2023 art. 30.º, n.º 18], correspondente à versão em língua inglesa /"best efforts"/ e também ao artigo 17.º, n.º 4, da DMD. O conceito de "melhores esforços" não se encontra definido no RSD e deve ser objeto de interpretação autónoma, a qual deve atender à finalidade e objetivos do artigo 31.º e do RSD. Ainda assim, pensa-se que é possível traçar paralelos com a utilização do conceito no artigo 17.º, n.º 4, da DMD e tomar em consideração as orientações da Comissão Europeia sobre este conceito em sede da DMD[fn:31]. Não se visa garantir um determinado resultado, o que compreende em face do art. 8.º do RSD e da vontade de não impor encargos desproporcionados[fn:30]. Deve ser feita uma análise casuística, atendendo às cirscunstâncias do caso concreto e à complexidade da avaliação, sempre tendo em atenção o princípio da proporcionalidade. Pode questionar-se se o fornecedor empregou os seus "melhores esforços" se efetuou a sua avaliação com base num (e apenas um) dos elementos elencados no art. 2.º, n.º 2[cite:@hofmann2023; art. 30.º, n.º 26]. Atendendo à natureza casuística do conceito, a resposta afirmativa ou negativa a esta questão dependerá das circunstâncias do caso concreto.
+
+*** VII - Informações inexatas, incompletas ou desatualizadas (n.º 3)
+
+
+
 
 
 
@@ -176,6 +187,15 @@ Artigo 32.º \\
 ** Comentário
 
 * Footnotes
+
+[fn:31] Comunicação da Comissão ao Parlamento Europeu e ao Conselho : Orientações sobre o artigo 17.º da Diretiva 2019/790 relativa aos direitos de autor no
+mercado único digital, COM(2021) 288 final, 4.6.2021, pp. 9 e ss.
+
+[fn:30] Cf. considerando n.º 73.
+
+[fn:29] Cf. considerando n.º 73.
+
+[fn:28] Cf. considerando n.º 73.
 
 [fn:27] Regulamento (UE) 2015/751 do Parlamento Europeu e do Conselho, de 29 de abril de 2015, relativo às taxas de intercâmbio aplicáveis a operações de pagamento baseadas em cartões, publicado no JO L 123 de 19.5.2015.
 
