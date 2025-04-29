@@ -161,27 +161,15 @@ O fornecedor de plataforma em linha que permite aos consumidores celebrar contra
 Esta obrigação de tratamento de dados visa "permitir que sejam apresentadas reclamações contra o comerciante ou que sejam cumpridas as decisões relacionadas com o comerciante" e é considerada pelo legislador europeu "necessária e proporcionada para que as informações possam ser acedidas, nos termos da legislação aplicável, nomeadamente em matéria de proteção de dados pessoais, por autoridades públicas e entidades privadas com um interesse legítimo, incluindo através das decisões de prestação de informações referidas no presente regulamento"[fn:33].
 
 *** X - Divulgação das informações (n.ºs 6 e 7)
-*13. Considerações gerais*. Os n.ºs 6 e 7 regulam a divulgação das informações obtidas ao abrigo dos n.ºs 1 e 2 pelo fornecedor. O n.º 6 regula a divulgação das informações a terceiros. O n.º 7 obriga o fornecedor a publicar, pelo menos na interface em linha da plataforma em linha onde as informações sobre o produto ou sobre o serviço são apresentadas, as informações obtidas ao abrigo do n.º 1, alíneas /a)/, /d)/ e /e)/ (cf. /supra/ *IV.4.a),d)* e *e)*). Deste modo, e como regra geral, a informação obtida ao abrigo do n.º 1, alíneas /a)/, /d)/ e /e)/, ficará disponível ao público em geral, pois as plataformas em linha que permitem a celebração de aos consumidores celebrar contratos à distância com consumidores não limitam a visualização de informações sobre produtos e serviços na sua plataforma em linha aos cibernautas que criaram uma conta na plataforma e acederam à mesma antes de navegarem pela plataforma. Deste modo, o n.º 6 releva, primordialmente, para conseguir o acesso às informações sobre os dados de identificação (n.º 1, alínea /b)/) e os dados da conta de pagamento (n.º 1, alínea /c)/) do comerciante.
+*13. Considerações gerais*. Os n.ºs 6 e 7 regulam a divulgação das informações obtidas ao abrigo dos n.ºs 1 e 2 pelo fornecedor. O n.º 6 regula a divulgação das informações a terceiros. O n.º 7 obriga o fornecedor a publicar, pelo menos na interface em linha da plataforma em linha onde as informações sobre o produto ou sobre o serviço são apresentadas, as informações obtidas ao abrigo do n.º 1, alíneas /a)/, /d)/ e /e)/ (cf. /supra/ *IV.4.a), d)* e *e)*). Deste modo, e como regra geral, a informação obtida ao abrigo do n.º 1, alíneas /a)/, /d)/ e /e)/, ficará disponível ao público em geral, pois as plataformas em linha que permitem a celebração de aos consumidores celebrar contratos à distância com consumidores não limitam a visualização de informações sobre produtos e serviços na sua plataforma em linha aos cibernautas que criaram uma conta na plataforma e acederam à mesma antes de navegarem pela plataforma. Deste modo, o n.º 6 releva, primordialmente, para conseguir o acesso às informações sobre os dados de identificação (n.º 1, alínea /b)/) e os dados da conta de pagamento (n.º 1, alínea /c)/) do comerciante.
 
 *14. Divulgação das informações a terceiros (n.º 6)*. O fornecedor só pode divulgar as informações obtidas ao abrigo do n.º 1 e 2 a terceiros quando tal lhe seja exigido nos termos do Direito aplicável. O n.º 6 enuncia, sem limitar, que o fornecedor deve divulgar as informações quando tal lhe seja exigido no contexto de uma decisão do artigo 10.º do RSD ou de quaisquer decisões emitidas pelas autoridades competentes dos Estados-Membros ou pela Comissão para o desempenho das suas funções nos termos do presente regulamento.
 
 *15. Divulgação na plataforma das informações previstas no n.º 1, alíneas /a)/, /d)/ e /e)/* (n.º 7). As informações relativas ao nome, endereço postal, número de telefone e endereço de correio eletrónico do comerciante (n.º 1, alínea /a)/), ao registo comercial ou outro registo público equivalente, se o comerciante estiver inscrito (n.º 1, alínea /b)/) e à autocertificação (n.º 1, alínea /e)/) devem ser disponibilizadas aos destinatários de forma clara, facilmente acessível e compreensível e pelo menos na interface em linha da plataforma em linha onde as informações sobre o produto ou sobre o serviço são apresentadas.
 
-*a) Divulgação de forma clara, facilmente acessível e compreensível*.
+*a) Divulgação de forma clara, facilmente acessível e compreensível*. A divulgação das informações deve ser efetuada de forma clara, facilmente acessível e compreensível. A informação é divulgada de forma clara se for facilmente identificável, procurando evitar-se ambiguidades e dúvidas interpretativas[cite:@muller-terpitz2023; art. 30.º, n.º 43]. A informação é divulgada de forma facilmente acessível se o destinatário do serviço consegue aceder à informação sem necessitar de pesquisar muito por ela[cite:@hofmann2023;art. 30.º, n.º 51]. Por fim, a informação é divulgada de forma compreensível se for for fácil de compreender para o destinatário do serviço. Atendendo a que norma visa, em primeira linha, a proteção dos consumidores, pensa-se que o critério pode ser a facilidade de compreensão para o consumidor médio[cite:@muller-terpitz2023; art. 30.º, n.º 44].
 
-*b) Pelo menos na interface em linha*.
-
-
-
-
-
-
-
-
-
-
-
-
+*b) Pelo menos na interface em linha*. O fornecedor deve disponibilizar as informações pelo menos na interface em linha da plataforma em linha onde as informações sobre o produto ou sobre o serviço são apresentadas. Os conceitos de "interface em linha" e "plataforma em linha" estão definidos no art. 3.º, para o qual se remete. Exige-se que a informação seja disponibilizada no mesmo local onde são apresentadas as informações sobre produto ou servço e permite-se que o fornecedor disponibilize a mesma informação em qualquer outro local da sua plataforma (/v.g./ criando, adicionalmente, uma secção dedicada na sua plataforma em linha onde seja possível pesquisar as informações relativas a todos os comerciantes que operam na sua plataforma).
 
 
 
