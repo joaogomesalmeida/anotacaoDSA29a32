@@ -203,9 +203,22 @@ O artigo 31.º visa reforçar a proteção dos consumidores, através da conceç
 
 *2. Âmbito de aplicação espacial*. A obrigação imposta neste artigo aos fornecedores de plataformas em linha que permitem aos consumidores celebrar contratos à distância com comerciantes está limitada em função do âmbito de aplicação espacial do RSD, definido no art. 2.º, para o qual se remete. Apesar de apenas a alínea /a)/ do n.º 2 mencionar expressamente a localização dos consumidores na União Europeia, entende-se que todas as obrigações estabelecidas pelo artigo 31.º só são aplicáveis aos comerciantes que querem promover mensagens ou oferecer produtos ou serviços aos consumidores localizados na União Europeia. Assim, e por exemplo, o artigo 31.º não é aplicável e o fornecedor da plataforma em linha pode autorizar a utilização da sua plataforma em linha por um comerciante nos casos em que - através de um mecanismo tecnológico, como o bloqueio geográfico - este só possa dirigir a sua atividade para consumidores localizados /fora/ da União Europeia.
 
-*** III - Obrigação de conceção e organização da interface em linha (n.ºs 1 e 2)
+*** IV - Obrigação de conceção e organização da interface em linha (n.ºs 1 e 2)
+*3. A regra geral (n.º 1, 1.º parágrafo)*. Os fornecedores devem assegurar que a interface em linha das suas plataformas em linha são concebidas e organizadas de modo a que os comerciantes possam cumprir as suas obrigações em matéria de informação pré-contratual, conformidade e informação sobre a segurança dos produtos.
 
-*** IV - Obrigações de avaliação (n.º 3)
+O forneceder deve, por isso, planear e implementar o interface em linha da sua plataforma em linha de modo a promover o cumprimento das obrigações dos comerciantes naquelas matérias.
+
+*a) Interface em linha*. Interface em linha é definida no artigo 3.º, al. /m)/, do RSD como "quaisquer programas informáticos, incluindo um sítio Web ou uma parte deste, e aplicações, incluindo aplicações móveis;". Entende-se que - em linguagem não técnica - o interface em linha é constituídos pelos programas informáticos, entendidos de forma ampla, que permitem ao comerciante aceder e interagir com a plataforma em linha.
+
+*b) Obrigações dos comerciantes*. O interface deve ser concebido e organizado de modo a promover o cumprimento pelos comerciantes das suas obrigações em três matérias distintas:
+
+*(1) Informações pré-contratuais*. Nesta matéria, o considerando n.º 74 dá como exemplos os artigos 6.º e 8.º da Diretiva relativa aos direitos dos consumidores, o artigo 7.º da Diretiva relativa às práticas comerciais desleais[fn:37], os artigos 5.º e 6.º da DCE e o artigo 3.º da Diretiva em matéria de indicações dos preços dos produtos oferecidos aos consumidores. Não há, atualmente, uma uniformização destas obrigações de informação no Direito da União Europeia[cite:Cf., considerando que a mesma seria desejável, @hofmann2023; art. 31.º, n.º 1] e, portanto, o fornecedor deve conceber e organizar o interface da sua plataforma em linha de modo a que o comerciante possa cumprir com todas as suas obrigações de informação pré-contratual.
+
+*(2) Conformidade*. Esta matéria não constava da Proposta, que se referia apenas às informações pré-contratuais e à informação sobre a segurança dos produtos[fn:42]. Alguns autores consideram que não é claro a que se refere este aditamento[cite:@wilman2024; art. 31.º, n.º 6]. Em tese, o aditamento impõe que os fornecedores concebam e organizem a interface da plataforma em linha de modo a que os comerciantes possam cumprir as suas obrigações de conformidade, que podem abranger produtos ou serviços[cite:@hofmann2023; art. 31.º, n.º 12]. Assim, parece poder incluir-se aqui os produtos que, cumpridos os requisitos de conformidade previstos no Direito da União, têm direito a uma declaração UE de confomidade e a ostentar uma marcação UE de conformidade. A plataforma em linha terá, pelo menos, de permitir que os comerciantes forneçam a marcação UE de conformidade dos seus produtos, conforme previsto no n.º 2, al. /c)/, deste artigo[cite:@hofmann2023;art. 31.º, n.º 13].
+
+*(3) Informação sobre a segurança dos produtos*.
+
+*** V - Obrigações de avaliação (n.º 3)
 
 
 
@@ -229,6 +242,12 @@ Artigo 32.º \\
 ** Comentário
 
 * Footnotes
+[fn:42] Cf. artigo 22.º, n.º 7, da Proposta.
+
+[fn:41] Cf., respetivamente, artigos 19.º e 20.º do Regulamento relativo aos dispositivos médicos.
+
+[fn:40] Regulamento (UE) 2017/745 do Parlamento Europeu e do Conselho, de 5 de abril de 2017, relativo aos dispositivos médicos, que altera a Diretiva 2001/83/CE, o Regulamento (CE) n.° 178/2002 e o Regulamento (CE) n.° 1223/2009 e que revoga as Diretivas 90/385/CEE e 93/42/CEE do Conselho, publicado no JO L 117 de 5.5.2017.
+
 [fn:39] Exemplos retirados do considerando n.º 74.
 
 [fn:38] Diretiva 98/6/CE do Parlamento Europeu e do Conselho, de 16 de fevereiro de 1998, relativa à defesa dos consumidores em matéria de indicações dos preços dos produtos oferecidos aos consumidores, publicada no JO L 80 de 18.3.1998.
