@@ -191,6 +191,24 @@ Artigo 31.º \\
 
 ** Bibliografia :ignore:
 ** Comentário
+*** I - Antecedentes legislativos
+O artigo 22.º da Proposta, relativo à rastreabilidade dos comerciantes, previa apenas um número (o n.º 7) dedicado à conceção e organização da plataforma em linha. Durante o processo legislativo, a Comissão dos Assuntos Jurídicos propôs o aditamento à Proposta de um novo artigo 22a[fn:36]. Na sequência de negociações interinstitucionais entre o Parlamento Europeu, o Conselho e a Comissão Europeia, o n.º 7 do artigo 22.º e o novo artigo 22a foram reunidos num único preceito, com algumas alterações e precisões de redação, destacando-se a redução das obrigações de verificação agora previstas no artigo 31.º, n.º 3[fn:2].
+
+*** II - Teleologia da norma
+O artigo 31.º visa reforçar a proteção dos consumidores, através da conceção técnica das plataformas em linha (/law by design/)[cite:@hofmann2023 art. 30.º, n.º 3;@muller-terpitz2023 art. 30.º, n.º 2]. O Direito Europeu tem um hoje um conjunto vasto de obrigações que impendem sobre o comerciante e que visam proteger o consumidor, como os artigos 6.º e 8.º da Diretiva relativa aos direitos dos consumidores, o artigo 7.º da Diretiva relativa às práticas comerciais desleais[fn:37], os artigos 5.º e 6.º da DCE e o artigo 3.º da Diretiva em matéria de indicações dos preços dos produtos oferecidos aos consumidores[fn:38][fn:39]. Com este preceito, impõem-se aos fornecedores de plataformas em linha que permitem aos consumidores celebrar contratos à distância com comerciantes três obrigações distintas. Em primeiro lugar, a obrigação de conceber e organizar a sua interface de forma a que os comerciantes cumpras as suas obrigações em matéria de informação pré-contratual, conformidade e informação sobre a segurança dos produtos nos termos do direito da União aplicável (n.ºs 1 e 2). Em segundo lugar, a obrigação de verificar se os comerciantes prestaram as informações a que se referem os n.ºs 1 e 2 antes de permitirem que estes ofereçam os seus produtos ou serviços na plataforma em linha (n.º 3, primeiro período). Em terceiro lugar, a obrigação de verificar, posteriormente e por amostragem, se os produtos ou serviços oferecidos na sua plataforma em linha foram identificados como ilegais (n.º 3, segundo período). Estas obrigações que são agora impostas aos fornecedores de plataformas em linha que permitem aos consumidores celebrar contratos à distância com comerciantes visam garantir a aplicação do Direito e assim melhor proteger os consumidores.
+
+*** III - Âmbito de aplicação
+
+*1. Âmbito de aplicação subjetivo*. O artigo 31.º é aplicável aos fornecedores de plataformas em linha que permitem aos consumidores celebrar contratos à distância com comerciantes que não beneficiem da isenção prevista no artigo 29.º. Na concretização dos destinatários da norma são relevantes os conceitos de "consumidor", "comerciante", "plataforma em linha", e "contrato à distância" definidos no artigo 3.º, e para o qual se remete. O conceito de "plataformas em linha que permitem aos consumidores celebrar contratos à distância" é muito próximo do conceito de "mercado em linha"[fn:19], mas não inclui as plataformas que apenas permitem a celebração de contratos entre consumidores[cite:@muller-terpitz2023 art. 31.º, n.º 4;e, no contexto do artigo 30.º, transponível também para este preceito, cf. @wilman2024 p. 224, n.º 8;@hofmann2023 art. 30.º, n.º 8].
+
+*2. Âmbito de aplicação espacial*. A obrigação imposta neste artigo aos fornecedores de plataformas em linha que permitem aos consumidores celebrar contratos à distância com comerciantes está limitada em função do âmbito de aplicação espacial do RSD, definido no art. 2.º, para o qual se remete. Apesar de apenas a alínea /a)/ do n.º 2 mencionar expressamente a localização dos consumidores na União Europeia, entende-se que todas as obrigações estabelecidas pelo artigo 31.º só são aplicáveis aos comerciantes que querem promover mensagens ou oferecer produtos ou serviços aos consumidores localizados na União Europeia. Assim, e por exemplo, o artigo 31.º não é aplicável e o fornecedor da plataforma em linha pode autorizar a utilização da sua plataforma em linha por um comerciante nos casos em que - através de um mecanismo tecnológico, como o bloqueio geográfico - este só possa dirigir a sua atividade para consumidores localizados /fora/ da União Europeia.
+
+*** III - Obrigação de conceção e organização da interface em linha (n.ºs 1 e 2)
+
+*** IV - Obrigações de avaliação (n.º 3)
+
+
+
 
 * Anotação artigo 32.º :ignore:
 ** Transcrição do artigo :ignore:
@@ -211,6 +229,13 @@ Artigo 32.º \\
 ** Comentário
 
 * Footnotes
+[fn:39] Exemplos retirados do considerando n.º 74.
+
+[fn:38] Diretiva 98/6/CE do Parlamento Europeu e do Conselho, de 16 de fevereiro de 1998, relativa à defesa dos consumidores em matéria de indicações dos preços dos produtos oferecidos aos consumidores, publicada no JO L 80 de 18.3.1998.
+
+[fn:37] Diretiva 2005/29/CE do Parlamento Europeu e do Conselho, de 11 de maio de 2005, relativa às práticas comerciais desleais das empresas face aos consumidores no mercado interno e que altera a Diretiva 84/450/CEE do Conselho, as Diretivas 97/7/CE, 98/27/CE e 2002/65/CE e o Regulamento (CE) n.º 2006/2004, publicada no JO L 149 de 11.6.2005.
+
+[fn:36] Cf. Relatório sobre a proposta de Regulamento do Parlamento Europeu e do Conselho relativo a um mercado único de serviços digitais (Regulamento Serviços Digitais) e que altera a Diretiva 2000/31/CE, de 20.12.2021, (COM(2020)0825 – C9-0418/2020 – 2020/0361(COD)), alteração 245, p. 513.
 
 [fn:35] Cf. Considerando n.º 72.
 
