@@ -8,6 +8,8 @@
 #+LATEX_HEADER: \usepackage{titletoc}
 #+LATEX_HEADER: \KOMAoptions{headings=small}
 
+#+ODT_STYLES_FILE: "~/Dropbox/Bibliografia/ODT/modelo.odt"
+
 #+bibliography: ~/Dropbox/Bibliografia/BetterBibLatex/bib.bib
 #+cite_export: csl chicago-fullnote-bibliography.csl
 
@@ -288,7 +290,7 @@ A norma visa, primariamente, reforçar a proteção dos consumidores, atribuindo
 
 Os conceitos de "produto ilegal" e "serviço ilegal" não são definidos no RSD. O RSD define o conceito de "conteúdos ilegais" no artigo 3.º, alínea /h)/, para cuja anotação se remete. Traçando um paralelo com o conceito de conteúdos ilegais, dir-se-á que produtos ou serviços ilegais são os que não estejam em conformidade com o direito da União ou com o direito de qualquer um dos Estados-Membros que seja conforme com o direito da União, independentemente do objeto ou da natureza precisa desse direito[cite:@hofmann2023 32.º, n.º 18;@muller-terpitz2023 32.º, n.º 6]. As obrigações do artigo 32.º não incidem sobre conteúdos ilegais e, por isso, não são aplicávais se o produto não for ilegal, mesmo se as fotos colocadas na plataforma em linha para o promover constituírem conteúdo ilegal por violarem direitos de autor[cite:Exemplo retirado de @hofmann2023 32.º, n.º 18].
 
-O fornecedor só tem a obrigação de informar ou divulgar se os produtos ou serviços foram oferecidos e adquiridos por consumidores através da sua plataforma. Se o produto ou serviço ilegal foi oferecido ao ou adquirido pelo consumidor por meio diverso da plataforma em linha, quebra-se a conexão decorrente da atual importância destes intermediários no comércio em linha que parece justificar a imposição destas obrigações adicionais[cite:@muller-terpitz2023 32.º, n.º 8].
+O fornecedor só tem a obrigação de informar ou divulgar se os produtos ou serviços foram oferecidos e adquiridos por consumidores através da sua plataforma. Se o produto ou serviço ilegal foi oferecido ao consumidor ou adquirido por este por meio diverso da plataforma em linha, quebra-se a conexão decorrente da atual importância destes intermediários no comércio em linha que parece justificar a imposição destas obrigações adicionais[cite:@muller-terpitz2023 32.º, n.º 8].
 
 *3. Âmbito de aplicação espacial*. As obrigações de informação e divulgação impostas neste artigo aos fornecedores de plataformas em linha que permitem aos consumidores celebrar contratos à distância com comerciantes estão limitada em função do âmbito de aplicação espacial do RSD, definido no art. 2.º, para o qual se remete. Por isso, essas obrigações só são aplicáveis se o produto ou serviço ilegal foi oferecido na plataforma em linha por um comerciante a consumidores localizados na União Europeia. Assim, e por exemplo, o artigo 32.º não é aplicável nos casos em que um comerciante ofereça na plataforma em linha produtos que não cumpram a legislação europeia desde que limite a oferta desses produtos a pessoas localizadas fora da União Europeia.
 
