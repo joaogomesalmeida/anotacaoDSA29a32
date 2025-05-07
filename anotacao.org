@@ -276,12 +276,35 @@ Artigo 32.º \\
 ** Bibliografia :ignore:
 ** Comentário
 *** I - Antecedentes legislativos
+A Proposta não previa obrigações de informação em caso de oferta, através de plataformas em linha, de produtos ou serviços ilegais. A obrigação de informação foi proposta, durante o processo legislativo, pela Comissão dos Assuntos Jurídicos, com a introdução de um novo artigo 22b[fn:46]. Este preceito previa, para além da obrigação de informação, uma obrigação de retirada do produto ou serviço ilegal da plataforma em linha e informação das autoridades, assim como a criação de uma base de dados interna com os conteúdos removidos e ou os destinatários suspensos, que não constam na versão final do RSD. O preceito estabelecia também a obrigação de informar os consumidores que adquiriram o produto ou serviço ilegal nos 12 meses anteriores à data em que o fornecedor tomou conhecimento da natureza ilegal de um produto ou serviço. Este prazo foi, na versão final, reduzido para 6 meses.
+
 *** II - Teleologia da norma
+A norma visa, primariamente, reforçar a proteção dos consumidores, atribuindo aos fornecedores de plataformas em linha que permitem aos consumidores celebrar contratos à distância com comerciantes um papel a desempenhar na tarefa de garantir legalidade dos produtos e serviços oferecidos na União Europeia[cite:Cf., em sentido semelhante, @wilman2024 32.º, n.º 1;@hofmann2023 32.º, n.ºs 1 e 3;@muller-terpitz2023 32.º, n.º 2]. A norma também protege os comerciantes concorrentes e os titulares de direitos de propriedade intelectual[cite:@hofmann2023, 32.º, n.º 2] e pode, inclusive, ter um efeito disuasor na oferta de produtos e serviços ilegais atendendo aos (potencialmente muito elevados) danos reputacionais e patrimoniais que podem advir da informação aos consumidores ou divulgação ao público de que determinado comerciante ofereceu produtos ou serviços ilegais.
+
 *** III - Âmbito de aplicação
+*1. Âmbito de aplicação subjetivo*. O artigo 32.º é aplicável aos fornecedores de plataformas em linha que permitem aos consumidores celebrar contratos à distância com comerciantes que não beneficiem da isenção prevista no artigo 29.º. Na concretização dos destinatários da norma são relevantes os conceitos de "consumidor", "comerciante", "plataforma em linha", e "contrato à distância" definidos no artigo 3.º, e para o qual se remete. O conceito de "plataformas em linha que permitem aos consumidores celebrar contratos à distância" é muito próximo do conceito de "mercado em linha"[fn:19], mas não inclui as plataformas que apenas permitem a celebração de contratos entre consumidores[cite:@muller-terpitz2023 32.º, n.º 4;@hofmann2023 32.º, n.º 7;e, no contexto do artigo 30.º, transponível também para este preceito, cf. @wilman2024 p. 224, n.º 8;].
+
+*2. Âmbito de aplicação material*. As obrigações de informação e divulgação incidem sobre a oferta e aquisição pelo consumidor de produtos ou serviços ilegais através da plataforma em linha do fornecedor.
+
+Os conceitos de "produto ilegal" e "serviço ilegal" não são definidos no RSD. O RSD define o conceito de "conteúdos ilegais" no artigo 3.º, alínea /h)/, para cuja anotação se remete. Traçando um paralelo com o conceito de conteúdos ilegais, dir-se-á que produtos ou serviços ilegais são os que não estejam em conformidade com o direito da União ou com o direito de qualquer um dos Estados-Membros que seja conforme com o direito da União, independentemente do objeto ou da natureza precisa desse direito[cite:@hofmann2023 32.º, n.º 18;@muller-terpitz2023 32.º, n.º 6]. As obrigações do artigo 32.º não incidem sobre conteúdos ilegais e, por isso, não são aplicávais se o produto não for ilegal, mesmo se as fotos colocadas na plataforma em linha para o promover constituírem conteúdo ilegal por violarem direitos de autor[cite:Exemplo retirado de @hofmann2023 32.º, n.º 18].
+
+O fornecedor só tem a obrigação de informar ou divulgar se os produtos ou serviços foram oferecidos e adquiridos por consumidores através da sua plataforma. Se o produto ou serviço ilegal foi oferecido ao ou adquirido pelo consumidor por meio diverso da plataforma em linha, quebra-se a conexão decorrente da atual importância destes intermediários no comércio em linha que parece justificar a imposição destas obrigações adicionais[cite:@muller-terpitz2023 32.º, n.º 8].
+
+*3. Âmbito de aplicação espacial*. As obrigações de informação e divulgação impostas neste artigo aos fornecedores de plataformas em linha que permitem aos consumidores celebrar contratos à distância com comerciantes estão limitada em função do âmbito de aplicação espacial do RSD, definido no art. 2.º, para o qual se remete. Por isso, essas obrigações só são aplicáveis se o produto ou serviço ilegal foi oferecido na plataforma em linha por um comerciante a consumidores localizados na União Europeia. Assim, e por exemplo, o artigo 32.º não é aplicável nos casos em que um comerciante ofereça na plataforma em linha produtos que não cumpram a legislação europeia desde que limite a oferta desses produtos a pessoas localizadas fora da União Europeia.
+
+*4. Âmbito de aplicação temporal*. As obrigações de informação e divulgação estão limitada às aquisições de produtos ou serviços ilegais efetuadas durante os seis meses que precedem o momento em que o fornecedor tomou conhecimento da ilegalidade. Assim, e por exemplo, o fornecedor não têm a obrigação de informar ou divulgar ao publico que um comerciante ofereceu determinado produto ou serviço ilegal aos consumidores localizados na União Europeia se, nos 6 meses anteriores à tomada de conhecimento da ilegalidade pelo fornecedor, nenhum consumidor localizado na União Europeia adquiriu o produto ou serviço.
+
+A data da aquisição é a data em que foi celebrado o contrato entre o comerciante e o consumidor. A data da execução do contrato não é relevante. Só a data da celebração pode ser facilmente determinada pelo fornecedor, uma vez que o contrato foi celebrado através da sua plataforma em linha[cite:@hofmann2023 32.º, n.º 29].
+
+*b) Momento do conhecimento*.
+
 *** IV - Obrigação de informar os consumidores que adquiriram o produto ou serviço ilegal (n.º 1)
 *** V - Obrigação de divulgação (n.º 2)
 
 * Footnotes
+
+[fn:46] Cf. Relatório sobre a proposta de Regulamento do Parlamento Europeu e do Conselho relativo a um mercado único de serviços digitais (Regulamento Serviços Digitais) e que altera a Diretiva 2000/31/CE, de 20.12.2021, (COM(2020)0825 – C9-0418/2020 – 2020/0361(COD)), alteração 246, p. 514.
+
 [fn:45] Cf. artigo 8.º do RSD e considerando n.º 74.
 
 [fn:44] Cf. considerando n.º 74.
