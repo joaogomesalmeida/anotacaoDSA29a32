@@ -301,11 +301,13 @@ A data da aquisição é a data em que foi celebrado o contrato entre o comercia
 *** IV - Obrigação de informar os consumidores que adquiriram o produto ou serviço ilegal (n.º 1)
 *5. Pressupostos*. São dois os pressuspostos da obrigação de informação prevista no n.º 1: o fornecedor tem de tomar conhecimento de que foi oferecido um produto ou serviço ilegal através da sua plataforma em linha e tem de dispor dos dados de contacto dos consumidores localizados na União Europeia que adquiriram esse produto ou serviço ilegal.
 
-*a) Conhecimento de que foi oferecido produto ou serviço ilegal*.
+*a) Conhecimento de que foi oferecido produto ou serviço ilegal*. O conhecimento é exigido, mas não é definido no RSD. Da redação do preceito, conjugada com a ausência de uma obrigação geral de vigilância (artigo 8.º do RSD), resulta que não é suficiente o forneceddor ter conhecimento, em sentido geral, de que o seu serviço é  utilizado para oferecer produtos ou serviços ilegais. O fornecedor tem de tomar conhecimento concreto de que /determinado/ produto ou serviço ilegal é oferecido na sua plataforma em linha[fn:47]. O conhecimento concreto abrange o /concreto/ produto ou serviço /e/ a sua natureza ilegal[cite:@hofmann2023 32.º, n.º 12].
 
-O meio utilizado para obter conhecimento é irrelevante.
+O meio utilizado para obter conhecimento é irrelevante. O conhecimento pode advir por qualquer meio, nomeadamente através de investigações realizadas por iniciativa própria, verificações efetuadas ao abrigo do artigo 31.º, n.º 3, do RSD ou notificações remetidas ao fornecedor. Quanto a estas últimas recorda-se a jurisprudência do TJ, proferida no contexto do artigo 14.º da DCE, de que "uma notificação não pode automaticamente retirar o direito à isenção de responsabilidade prevista no artigo 14.° da Directiva 2000/31, dado que as notificações de actividades ou informações alegadamente ilegais se podem revelar insuficientemente precisas e demonstradas"[fn:48].
 
-*b) Dados de contacto dos consumidores adquirentes do produto ou serviço ilegal*.
+No contexto do artigo 32.º, em que o cumprimento da obrigação de informação pode acarretar danos reputacionais muito elevados para o comerciante, considera-se que o fornecedor deve ser cuidadoso ao estabelecer o conhecimento da ilegalidade do produto ou serviço. Por exemplo, nos casos em que é alertado para a ilegalidade de determinado produto ou serviço por notificações de terceiros, o fornecedor deverá previamente dar uma oportunidade ao comerciante para se pronunciar[cite:@hofmann2023 32.º, n.ºs 13 e ss.].
+
+*b) Dados de contacto dos consumidores adquirentes do produto ou serviço ilegal*. O artigo 32.º estabelece que o fornecedor só tem a obrigação de informar os consumidor se dispuser dos seus dados de contacto, mas não o obriga a ter e tratar esses dados de contacto para este propósito[cite:@wilman2024 32.º, n.º 3, consideram que o estabelecimento de tal obrigação violaria o artigo 6.º, n.º 1 do RGPD]. O conceito de dados de contacto abrange o endereço de correio eletrónico, o endereço postal e o número de telefone do consumidor. A própria conta na plataforma em linha - mesmo quando esta tenha um sistema interno de troca de mensagens de texto - não parece poder incluir-se no conceito de dados de contacto, pois normalmente pressupõe que o consumidor tem de aceder à plataforma em linha para verificar as mensagens[cite:Cf., em sentido semelhante, @muller-terpitz2023 32.º, n.º 13].
 
 *7. Conteúdo*.
 
@@ -322,6 +324,10 @@ A obrigação de divulgação (n.º 2) substitui a obrigação de informação (
 *11. Requisitos*.
 
 * Footnotes
+
+[fn:48] Cf. Acórdão do TJ de 12 de julho de 2011, /L'Oréal e o./, proc. C-324/09, EU:C:2011:474, n.º 122.
+
+[fn:47] Cf., no contexto do artigo 6.º do RSD, o considerando n.º 22 e, no contexto do artigo 14.º da DCE, o Acórdão do TJ de 22 de junho de 2021, /YouTube e Cyando/, processos apensos C-682/18 e C-683/18, EU:C:2021:503, n.ºs 113 e 114.
 
 [fn:46] Cf. Relatório sobre a proposta de Regulamento do Parlamento Europeu e do Conselho relativo a um mercado único de serviços digitais (Regulamento Serviços Digitais) e que altera a Diretiva 2000/31/CE, de 20.12.2021, (COM(2020)0825 – C9-0418/2020 – 2020/0361(COD)), alteração 246, p. 514.
 
