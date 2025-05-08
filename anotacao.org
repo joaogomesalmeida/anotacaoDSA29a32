@@ -296,12 +296,30 @@ O fornecedor só tem a obrigação de informar ou divulgar se os produtos ou ser
 
 *4. Âmbito de aplicação temporal*. As obrigações de informação e divulgação estão limitada às aquisições de produtos ou serviços ilegais efetuadas durante os seis meses que precedem o momento em que o fornecedor tomou conhecimento da ilegalidade. Assim, e por exemplo, o fornecedor não têm a obrigação de informar ou divulgar ao publico que um comerciante ofereceu determinado produto ou serviço ilegal aos consumidores localizados na União Europeia se, nos 6 meses anteriores à tomada de conhecimento da ilegalidade pelo fornecedor, nenhum consumidor localizado na União Europeia adquiriu o produto ou serviço.
 
-A data da aquisição é a data em que foi celebrado o contrato entre o comerciante e o consumidor. A data da execução do contrato não é relevante. Só a data da celebração pode ser facilmente determinada pelo fornecedor, uma vez que o contrato foi celebrado através da sua plataforma em linha[cite:@hofmann2023 32.º, n.º 29].
-
-*b) Momento do conhecimento*.
+A data da aquisição é a data em que foi celebrado o contrato entre o comerciante e o consumidor. A data da execução do contrato não é relevante. A data da celebração pode ser facilmente determinada pelo fornecedor, uma vez que o contrato foi celebrado através da sua plataforma em linha[cite:@hofmann2023 32.º, n.º 29]. A determinação precisa da data em fornecedor tomou conhecimento da ilegalidade reveste maior complexidade e variabilidade, atendendo a que o conhecimento pode advir por qualquer meio, nomeadamente através de investigações realizadas por iniciativa própria, verificações efetuadas ao abrigo do artigo 31.º, n.º 3, do RSD ou notificações remetidas ao fornecedor por pessoas ou entidades ao abrigo do RSD.
 
 *** IV - Obrigação de informar os consumidores que adquiriram o produto ou serviço ilegal (n.º 1)
+*5. Pressupostos*. São dois os pressuspostos da obrigação de informação prevista no n.º 1: o fornecedor tem de tomar conhecimento de que foi oferecido um produto ou serviço ilegal através da sua plataforma em linha e tem de dispor dos dados de contacto dos consumidores localizados na União Europeia que adquiriram esse produto ou serviço ilegal.
+
+*a) Conhecimento de que foi oferecido produto ou serviço ilegal*.
+
+O meio utilizado para obter conhecimento é irrelevante.
+
+*b) Dados de contacto dos consumidores adquirentes do produto ou serviço ilegal*.
+
+*7. Conteúdo*.
+
+*8. Modos de prestação*.
+
 *** V - Obrigação de divulgação (n.º 2)
+
+*9. Pressupostos*. Para que o fornecedor tenha a obrigação de divulgação é necessário que tome conhecimento de um produto ou serviço ilegal foi oferecido por um comerciante a consumidores localizados na União Europeia através da sua plataforma em linha, adquirido por estes durante os seis meses que precederam o momento em que tomou conhecimento da ilegalidade, e que não disponha dos dados de contacto de todos os consumidores em causa. Em suma, a obrigação de divulgação (n.º 2) é aplicável nos casos em que, por qualquer motivo, o fornecedor não dispõe dos dados de contacto de /todos/ os consumidores localizados na União Europeia que, naquele prazo de 6 meses, adquiriram o produto ou serviço ilegal.
+
+A obrigação de divulgação (n.º 2) substitui a obrigação de informação (n.º 1), nos casos em que o fornecedor não disponha dos dados de contacto de nenhum dos consumidores adquirentes. Pode, no entanto, questionar-se se o mesmo sucede nos casos em que o fornecedor dispõe dos dados de contacto de alguns, mas não de todos os consumidores adquirentes. Ou se, neste caso, o fornecedor está obrigado a informar diretamente os consumidores adquirente cujos meios de contacto dispõe (n.º 1) e a cumprir a obrigação de divulgação (n.º 2), pois não tem possibilidade de informar diretamente os restantes consumidores adquirentes. Atendendo ao objetivo de proteção do consumidores, e ao facto de a obrigação de divulgação não garantir o conhecimento por parte dos consumidores adquirentes (uma vez que estes têm de se dirigir à plataforma em linha para consultarem a informação), entende-se que, nos casos em que o forneceder só disponha dos dados de contacto de parte dos consumidores adquirentes, ele deve cumprir a obrigação de informação quanto a estes e também a obrigação de divulgação constante do n.º 2.
+
+*10. Conteúdo*.
+
+*11. Requisitos*.
 
 * Footnotes
 
