@@ -40,7 +40,6 @@ Artigo 29.º \\
 
 
 ** Comentário
-#+TOC: headlines 2 local
 
 *** I - Antecedentes legislativos
 
@@ -101,6 +100,12 @@ Artigo 30.º \\
 7.   O fornecedor da plataforma em linha que permite aos consumidores celebrar contratos à distância com comerciantes disponibiliza as informações a que se refere o n.º 1, alíneas a), d) e e), na sua plataforma em linha aos destinatários do serviço de forma clara, facilmente acessível e compreensível. Essas informações ficam disponíveis pelo menos na interface em linha da plataforma em linha onde as informações sobre o produto ou sobre o serviço são apresentadas.
 
 ** Bibliografia :ignore:
+
+[cite/nocite:@knapp2024]
+
+*Bibliografia:* /vide/ a indicada na anotação artigo 29.º e
+#+print_bibliography:
+
 ** Comentário
 *** I - Antecedentes legislativos
 A Proposta, no seu artigo 22.º, previa um regime de rastreabilidade dos comerciantes, o qual parece ter surgigo como resposta à crítica ao modo como foi aplicado o artigo 5.º da DCE[fn:16]. No decurso do processo legislativo, o artigo 22.º da Proposta foi objeto de alterações, destacando-se o aditamento de uma disposição transitória (n.º 2, 2.º parágrafo), o ajustamento do dever de verificar as informações recebidas a cargo do fornecedor, precisando que este não é responsável pela exatidão das informações (n.º 2, 1.º parágrafo), o alargamento do prazo de conservação dos dados (n.º 5) e o desenvolvimento do número relativo à conceção e organização da plataforma em linha e a sua autonomização naquele que é atualmente o artigo 31.º do RSD.
@@ -171,7 +176,7 @@ Esta obrigação de tratamento de dados visa "permitir que sejam apresentadas re
 
 *15. Divulgação na plataforma das informações previstas no n.º 1, alíneas /a)/, /d)/ e /e)/* (n.º 7). As informações relativas ao nome, endereço postal, número de telefone e endereço de correio eletrónico do comerciante (n.º 1, alínea /a)/), ao registo comercial ou outro registo público equivalente, se o comerciante estiver inscrito (n.º 1, alínea /b)/) e à autocertificação (n.º 1, alínea /e)/) devem ser disponibilizadas aos destinatários de forma clara, facilmente acessível e compreensível e pelo menos na interface em linha da plataforma em linha onde as informações sobre o produto ou sobre o serviço são apresentadas.
 
-*a) Divulgação de forma clara, facilmente acessível e compreensível*. A divulgação das informações deve ser efetuada de forma clara, facilmente acessível e compreensível. A informação é divulgada de forma clara se for facilmente identificável, procurando evitar-se ambiguidades e dúvidas interpretativas[cite:@muller-terpitz2023 30.º, n.º 43]. A informação é divulgada de forma facilmente acessível se o destinatário do serviço consegue aceder à informação sem necessitar de pesquisar muito por ela[cite:@hofmann2023 30.º, n.º 51]. Por fim, a informação é divulgada de forma compreensível se for for fácil de compreender para o destinatário do serviço. Atendendo a que norma visa, em primeira linha, a proteção dos consumidores, pensa-se que o critério pode ser a facilidade de compreensão para o consumidor médio[cite:@muller-terpitz2023 30.º, n.º 44].
+*a) Divulgação de forma clara, facilmente acessível e compreensível*. A divulgação das informações deve ser efetuada de forma clara, facilmente acessível e compreensível. A informação é divulgada de forma clara se for facilmente identificável, procurando evitar-se ambiguidades e dúvidas interpretativas[cite:@muller-terpitz2023 30.º, n.º 43]. A informação é divulgada de forma facilmente acessível se o destinatário do serviço consegue aceder à informação sem necessitar de pesquisar muito por ela[cite:@hofmann2023 30.º, n.º 51], não devendo a interface em linha constituir um entrave ao acesso à informação[cite:Cf., no contexto do artigo 14.º, @knapp2024 113]. Por fim, a informação é divulgada de forma compreensível se for for fácil de compreender para o destinatário do serviço. Atendendo a que norma visa, em primeira linha, a proteção dos consumidores, o critério pode ser a facilidade de compreensão para o consumidor médio[cite:@muller-terpitz2023 30.º, n.º 44].
 
 *b) Pelo menos na interface em linha*. O fornecedor deve disponibilizar as informações pelo menos na interface em linha da plataforma em linha onde as informações sobre o produto ou sobre o serviço são apresentadas. Os conceitos de "interface em linha" e "plataforma em linha" estão definidos no art. 3.º, para o qual se remete. Exige-se que a informação seja disponibilizada no mesmo local onde são apresentadas as informações sobre produto ou servço e permite-se que o fornecedor disponibilize a mesma informação em qualquer outro local da sua plataforma (/v.g./ criando, adicionalmente, uma secção dedicada na sua plataforma em linha onde seja possível pesquisar as informações relativas a todos os comerciantes que operam na sua plataforma).
 
@@ -194,6 +199,9 @@ Artigo 31.º \\
 3.   Os fornecedores de plataformas em linha que permitem aos consumidores celebrar contratos à distância com comerciantes, envidam todos os esforços para avaliar se tais comerciantes forneceram as informações a que se referem os n.ºs 1 e 2 antes de lhes permitir oferecer os seus produtos ou serviços nessas plataformas. Após permitir ao comerciante oferecer os respetivos produtos ou serviços na sua plataforma em linha que permite aos consumidores celebrar contratos à distância com comerciantes, o fornecedor envida esforços razoáveis para verificar aleatoriamente se os produtos ou serviços oferecidos foram identificados como ilegais em qualquer base de dados em linha ou interface em linha oficial, de acesso livre e legível por máquina.
 
 ** Bibliografia :ignore:
+
+*Bibliografia:* /vide/ a indicada na anotação ao artigo 29.º.
+
 ** Comentário
 *** I - Antecedentes legislativos
 O artigo 22.º da Proposta, relativo à rastreabilidade dos comerciantes, previa apenas um número (o n.º 7) dedicado à conceção e organização da plataforma em linha. Durante o processo legislativo, a Comissão dos Assuntos Jurídicos propôs o aditamento à Proposta de um novo artigo 22a[fn:36] sobre a matéria. Na sequência de negociações interinstitucionais entre o Parlamento Europeu, o Conselho e a Comissão Europeia, o n.º 7 do artigo 22.º e o novo artigo 22a foram reunidos num único preceito, com algumas alterações e precisões de redação, destacando-se a redução das obrigações de verificação agora previstas no artigo 31.º, n.º 3[fn:2].
@@ -276,6 +284,12 @@ Artigo 32.º \\
 2.   Se, no caso referido no n.º 1, o fornecedor da plataforma em linha que permite aos consumidores celebrar contratos à distância com comerciantes não dispuser dos dados de contacto de todos os consumidores em causa, esse fornecedor disponibiliza ao público e torna facilmente acessível na sua interface em linha as informações sobre o produto ou serviço ilegal, a identidade do comerciante e quaisquer meios de reparação aplicáveis.
 
 ** Bibliografia :ignore:
+
+[cite/nocite:@knapp2024]
+
+*Bibliografia:* /vide/ a indicada na anotação artigo 29.º e
+#+print_bibliography:
+
 ** Comentário
 *** I - Antecedentes legislativos
 A Proposta não previa obrigações de informação em caso de oferta, através de plataformas em linha, de produtos ou serviços ilegais. A obrigação de informação foi proposta, durante o processo legislativo, pela Comissão dos Assuntos Jurídicos, com a introdução de um novo artigo 22b[fn:46]. Este preceito previa, para além da obrigação de informação, uma obrigação de retirada do produto ou serviço ilegal da plataforma em linha e informação das autoridades, assim como a criação de uma base de dados interna com os conteúdos removidos e ou os destinatários suspensos, que não constam na versão final do RSD. O preceito estabelecia também a obrigação de informar os consumidores que adquiriram o produto ou serviço ilegal nos 12 meses anteriores à data em que o fornecedor tomou conhecimento da natureza ilegal de um produto ou serviço. Este prazo foi, na versão final, reduzido para 6 meses.
@@ -294,9 +308,9 @@ O fornecedor só tem a obrigação de informar ou divulgar se os produtos ou ser
 
 *3. Âmbito de aplicação espacial*. As obrigações de informação e divulgação impostas neste artigo aos fornecedores de plataformas em linha que permitem aos consumidores celebrar contratos à distância com comerciantes estão limitada em função do âmbito de aplicação espacial do RSD, definido no art. 2.º, para o qual se remete. Por isso, essas obrigações só são aplicáveis se o produto ou serviço ilegal foi oferecido na plataforma em linha por um comerciante a consumidores localizados na União Europeia. Assim, e por exemplo, o artigo 32.º não é aplicável nos casos em que um comerciante ofereça na plataforma em linha produtos que não cumpram a legislação europeia desde que limite a oferta desses produtos a pessoas localizadas fora da União Europeia.
 
-*4. Âmbito de aplicação temporal*. As obrigações de informação e divulgação estão limitada às aquisições de produtos ou serviços ilegais efetuadas durante os seis meses que precedem o momento em que o fornecedor tomou conhecimento da ilegalidade. Assim, e por exemplo, o fornecedor não têm a obrigação de informar ou divulgar ao publico que um comerciante ofereceu determinado produto ou serviço ilegal aos consumidores localizados na União Europeia se, nos 6 meses anteriores à tomada de conhecimento da ilegalidade pelo fornecedor, nenhum consumidor localizado na União Europeia adquiriu o produto ou serviço.
+*4. Âmbito de aplicação temporal*. As obrigações de informação e divulgação estão limitada às aquisições de produtos ou serviços ilegais efetuadas durante os seis meses que precedem o momento em que o fornecedor tomou conhecimento da ilegalidade (n.º 1, 2.º parágrafo). Assim, e por exemplo, o fornecedor não têm a obrigação de informar ou divulgar ao publico que um comerciante ofereceu determinado produto ou serviço ilegal aos consumidores localizados na União Europeia se, nos 6 meses anteriores à tomada de conhecimento da ilegalidade pelo fornecedor, nenhum consumidor localizado na União Europeia adquiriu o produto ou serviço.
 
-A data da aquisição é a data em que foi celebrado o contrato entre o comerciante e o consumidor. A data da execução do contrato não é relevante. A data da celebração pode ser facilmente determinada pelo fornecedor, uma vez que o contrato foi celebrado através da sua plataforma em linha[cite:@hofmann2023 32.º, n.º 29]. A determinação precisa da data em fornecedor tomou conhecimento da ilegalidade reveste maior complexidade e variabilidade, atendendo a que o conhecimento pode advir por qualquer meio, nomeadamente através de investigações realizadas por iniciativa própria, verificações efetuadas ao abrigo do artigo 31.º, n.º 3, do RSD ou notificações remetidas ao fornecedor por pessoas ou entidades ao abrigo do RSD.
+A data da aquisição é a data em que foi celebrado o contrato entre o comerciante e o consumidor. A data da execução do contrato não é relevante. A data da celebração pode ser facilmente determinada pelo fornecedor, uma vez que o contrato foi celebrado através da sua plataforma em linha[cite:@hofmann2023 32.º, n.º 29]. A determinação precisa da data em fornecedor tomou conhecimento da ilegalidade reveste maior complexidade e variabilidade, atendendo a que o conhecimento pode advir por qualquer meio (cf. /infra/ *IV.5.a).*).
 
 *** IV - Obrigação de informar os consumidores que adquiriram o produto ou serviço ilegal (n.º 1)
 *5. Pressupostos*. São dois os pressuspostos da obrigação de informação prevista no n.º 1: o fornecedor tem de tomar conhecimento de que foi oferecido um produto ou serviço ilegal através da sua plataforma em linha e tem de dispor dos dados de contacto dos consumidores localizados na União Europeia que adquiriram esse produto ou serviço ilegal.
@@ -327,9 +341,9 @@ Em contraponto, a prestação da informação através da própria plataforma em
 
 A obrigação de divulgação (n.º 2) substitui a obrigação de informação (n.º 1), nos casos em que o fornecedor não disponha dos dados de contacto de nenhum dos consumidores adquirentes. Pode, no entanto, questionar-se se o mesmo sucede nos casos em que o fornecedor dispõe dos dados de contacto de alguns, mas não de todos os consumidores adquirentes. Ou se, neste caso, o fornecedor está obrigado a informar diretamente os consumidores adquirente cujos meios de contacto dispõe (n.º 1) e a cumprir a obrigação de divulgação (n.º 2), pois não tem possibilidade de informar diretamente os restantes consumidores adquirentes. Atendendo ao objetivo de proteção do consumidores, e ao facto de a obrigação de divulgação não garantir o conhecimento por parte dos consumidores adquirentes (uma vez que estes têm de se dirigir à plataforma em linha para consultarem a informação), entende-se que, nos casos em que o forneceder só disponha dos dados de contacto de parte dos consumidores adquirentes, ele deve cumprir a obrigação de informação quanto a estes e também a obrigação de divulgação constante do n.º 2.
 
-*10. Conteúdo*.
+*10. Conteúdo*. A obrigação de divulgação abrange as informações sobre o produto ou serviço ilegal, a identidade do comerciante e quaisquer meios de reparação aplicáveis. A expressão "informações sobre o produto ou serviço ilegal" parece ser mais abrangente do que a prevista no n.º 1, al. /a)/. Tal pode compreender-se porque, neste caso, o fornecedor não pode contactar diretamente todos os consumidores que adquiriram o produto ou serviço ilegal e, por isso, deve divulgar informações que permitam aos consumidores identificar inequivocamente se adquiriram ou não aquele produto ou serviço ilegal. Assim, inclui-se, por exemplo, a designação, modelo, n.º de série, descrição e imagens do produto ilegal[cite:@muller-terpitz2023 32.º, n.º 16]. As informações relativas à identidade do comerciante e aos meios de reparação correspondem às previstas no n.º 1, als. /b)/ e /c)/ (cf. /supra/ *IV.5.b) e c)*).
 
-*11. Modo de divulgação*.
+*11. Modo de divulgação*. A informação tem de ser disponibilizada ao público, de modo facilmente acessível, na interface em linha da plataforma em linha do fornecedor. O requisito de disponibilização ao público é preenchido desde que a informação seja colocada em local da plataforma em linha que possa ser acedido por qualquer internauta, mesmo que não tenha conta na plataforma em linha (ou não acedido a esta)[cite:@hofmann2023 32.º, n.º 32;@muller-terpitz2023 32.º, n.º 18]. As informações são facilmente acessíveis se o público consegue aceder à informação sem necessitar de pesquisar muito por ela[cite:@muller-terpitz2023 32.º, n.º 19], não devendo a interface em linha constituir um entrave ao acesso à informação[cite:Cf., no contexto do artigo 14.º, @knapp2024 113]. Um modo de o alcançar será, por exemplo, criar uma secção específica na interface em linha da plataforma em linha, acessível desde logo na página de entrada da plataforma, para a divulgação destas informações[cite:@hofmann2023 32.º, n.º 32].
 
 * Footnotes
 [fn:49] Cf. o artigo 30.º, n.º 1, al. /a)/, do RSD, no que se refere aos dados que o fornecedor tem de obter dos comerciantes que utilizam a sua plataforma em linha.
