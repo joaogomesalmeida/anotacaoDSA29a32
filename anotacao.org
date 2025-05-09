@@ -307,11 +307,19 @@ O meio utilizado para obter conhecimento é irrelevante. O conhecimento pode adv
 
 No contexto do artigo 32.º, em que o cumprimento da obrigação de informação pode acarretar danos reputacionais muito elevados para o comerciante, considera-se que o fornecedor deve ser cuidadoso ao estabelecer o conhecimento da ilegalidade do produto ou serviço. Por exemplo, nos casos em que é alertado para a ilegalidade de determinado produto ou serviço por notificações de terceiros, o fornecedor deverá previamente dar uma oportunidade ao comerciante para se pronunciar[cite:@hofmann2023 32.º, n.ºs 13 e ss.].
 
-*b) Dados de contacto dos consumidores adquirentes do produto ou serviço ilegal*. O artigo 32.º estabelece que o fornecedor só tem a obrigação de informar os consumidor se dispuser dos seus dados de contacto, mas não o obriga a ter e tratar esses dados de contacto para este propósito[cite:@wilman2024 32.º, n.º 3, consideram que o estabelecimento de tal obrigação violaria o artigo 6.º, n.º 1 do RGPD]. O conceito de dados de contacto abrange o endereço de correio eletrónico, o endereço postal e o número de telefone do consumidor. A própria conta na plataforma em linha - mesmo quando esta tenha um sistema interno de troca de mensagens de texto - não parece poder incluir-se no conceito de dados de contacto, pois normalmente pressupõe que o consumidor tem de aceder à plataforma em linha para verificar as mensagens[cite:Cf., em sentido semelhante, @muller-terpitz2023 32.º, n.º 13].
+*b) Dados de contacto dos consumidores adquirentes do produto ou serviço ilegal*. O artigo 32.º estabelece que o fornecedor só tem a obrigação de informar os consumidor se dispuser dos seus dados de contacto, mas não o obriga a ter e tratar esses dados de contacto para este propósito[cite:@wilman2024 32.º, n.º 3, consideram que o estabelecimento de tal obrigação violaria o artigo 6.º, n.º 1 do RGPD]. O conceito de dados de contacto, embora não definido no RSD, abrange o endereço de correio eletrónico, o endereço postal e o número de telefone do consumidor[fn:49].
 
-*7. Conteúdo*.
+*7. Conteúdo*. O consumidor deve ser informado de que o produto ou serviço é ilegal (n.º 1, al. /a)/), da identidade do comerciante (n.º 1, al. /b)/) e de quaisquer meios de reparação aplicáveis (n.º 1, al. /c)/).
 
-*8. Modos de prestação*.
+*a) O facto de o produto ou serviço ser ilegal (n.º 1, al. /a)/)*. Da redação da al. /a)/ não resulta o dever de informar os consumidor do motivo pelo qual o produto ou serviço é ilegal. Parece haver apenas o dever de comunicar que o produto ou serviço é ilegal[cite:@muller-terpitz2023 32.º, n.º 11]. Alguns autores sustentam que o dever de indicar o fundamento da ilegalidade decorre, implicitamente, da obrigação de informar o consumidor de quaiquer meios de reparação aplicáveis[cite:@hofmann2023 32.º, n.º 23].
+
+*b) Da identidade do comerciante*. O conceito de identidade não é definido no RSD. Alguns autores sustentam que o conceito de identidade, em regra, não abrangerá o endereço[cite:@hofmann2023 32.º, n.º 25]. Outros reconduzem este conceito à informação que o fornecedor deve ter obtido do comerciante nos termos do art. 30.º, n.º 1, al. /a)/ do RSD[cite:@muller-terpitz2023 32.º, n.º 11]. Este último entendimento parece preferível, atendendo ao objetivo de reforçar a proteção do consumidor e à relavância do endereço postal para o exercício judicial dos direitos do consumidor.
+
+*c) De quaisquer meios de reparação aplicáveis*. As versões inglesa, francesa, italiana, espanhola e alemã do RSD indicam, respetivamente, que o consumidor deve ser informado de /"any relevant means of redress/, /"tout moyen de recours pertinent"/, /"di qualsiasi mezzo di ricorso pertinente"/, /"de cualquier vía de recurso pertinente"/ e /"die einschlägigen Rechtsbehelfe"/. A análise das várias versões linguísticas aponta no sentido de que não é suficiente uma comunicação, de caráter geral, ao consumidor sobre os seus direitos. Parece ser necessário uma adequação da informação a prestar às circunstâncias do caso concreto, pois o consumidor deve ser informado dos meios de reparação /pertinentes/. O RSD não dá indicações sobre esta matéria. Parece dever procurar-se um equilíbrio entre o encargo imposto aos fornecedores, que não deverá ser excessivo, e o objetivo de reforçar, atrvés da prestação desta informação, a proteção dos consumidores. Assim, não devem ser indicados todos os direitos do consumidor, pois os excesso de informação pode também dificultar o exercício dos seus direitos pelo consumidor, mas, por outro lado, o fornecedor não deverá ser onerado com a obrigação de efetuar uma delimitação precisa dos meios de reparação aplicáveis. Devem ser indicados os meios de reparação que, em princípio, podem ser aplicáveis ao caso concreto[cite:@hofmann2023 32.º, n.º 26;@muller-terpitz2023 32.º, n.º 12].
+
+*8. Modos de prestação*. Não é definido como deve o fornecedor comunicar a informação aos consumidores. Regra geral, admite-se que a solução mais comum será o envio da informação através de mensagem para o endereço de correio eletrónico do consumidor. A informação pode também ser prestada mediante envio de carta para o endereço postal do consumidor. A prestação da informação ao consumidor mediante contacto telefónico não parece adequada, desde logo pela quantidade de informação a prestação, pelos maiores encargos que acarreta para o fornecedor[cite:@muller-terpitz2023 32.º, n.º 13] e por não consubstanciar um registo duradouro que permita consultas repetidas pelo consumidor. Pparece, no entanto, possível - embora não tão comum como o envio de mensagens por correio eletrónico - o envio da informação através de aplicações de troca de mensagens que utilizem o contacto telefónico para identificar os seus utilizadores (/v.g. Whatsapp/).
+
+Em contraponto, a prestação da informação através da própria plataforma em linha - mesmo quando esta tenha um sistema interno de troca de mensagens - não parece poder incluir-se no conceito de dados de contacto, pois normalmente pressupõe que o consumidor tem de aceder à plataforma em linha para verificar as mensagens[cite:Cf., em sentido semelhante, @muller-terpitz2023 32.º, n.º 13].
 
 *** V - Obrigação de divulgação (n.º 2)
 
@@ -321,9 +329,10 @@ A obrigação de divulgação (n.º 2) substitui a obrigação de informação (
 
 *10. Conteúdo*.
 
-*11. Requisitos*.
+*11. Modo de divulgação*.
 
 * Footnotes
+[fn:49] Cf. o artigo 30.º, n.º 1, al. /a)/, do RSD, no que se refere aos dados que o fornecedor tem de obter dos comerciantes que utilizam a sua plataforma em linha.
 
 [fn:48] Cf. Acórdão do TJ de 12 de julho de 2011, /L'Oréal e o./, proc. C-324/09, EU:C:2011:474, n.º 122.
 
