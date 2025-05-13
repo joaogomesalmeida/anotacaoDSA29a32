@@ -11,7 +11,7 @@
 #+ODT_STYLES_FILE: "~/Dropbox/Bibliografia/ODT/modelo.odt"
 
 #+bibliography: ~/Dropbox/Bibliografia/BetterBibLatex/bib.bib
-#+cite_export: csl chicago-fullnote-bibliography.csl
+#+cite_export: csl chicago-dsa.csl
 
 
 
